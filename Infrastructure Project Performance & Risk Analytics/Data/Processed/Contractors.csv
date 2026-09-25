@@ -1,0 +1,13 @@
+Contractor_ID,Contractor_Name,Experience_Years,Projects_Completed,Average_Delay_Days,Performance_Rating,Performance_Category,Experience_Category,Delay_Category
+C101,Buildmax Infra,25,22,5,4.3,Good,High Experienced,Low Delay
+C102,Roadworks India,12,36,8,4.2,Good,Average Experience,Low Delay
+C103,Apex Constructions,26,19,18,3.5,Good,High Experienced,Medium Delay
+C104,,5,19,8,3.0,Average,Beginner,Low Delay
+C105,Metrobuild Pvt Ltd,24,11,18,5.8,Excellent,High Experienced,Medium Delay
+C106,National Infraworks,25,61,8,3.5,Good,High Experienced,Low Delay
+C107,Prime Engineering,13,8,30,4.4,Good,Average Experience,High Delay
+C108,Vertex Construction,27,62,12,3.1,Average,High Experienced,Medium Delay
+C109,Horizon Developers,11,51,5,2.6,Average,Average Experience,Low Delay
+C110 ,Urbangrid Infra,16,53,30,3.3,Average,Good Experience,High Delay
+C111,Suryodaya Projects,13,13,22,3.5,Good,Average Experience,Medium Delay
+C112,Bluestone Engineering,8,56,5,3.8,Good,Beginner,Low Delay

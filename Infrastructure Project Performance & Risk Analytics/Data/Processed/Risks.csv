@@ -1,0 +1,697 @@
+Risk_ID,Project_ID,Risk_Type,Probability,Impact,Risk_Status
+R9001,P1001,Regulatory,Low,Low,Open
+R9002,P1002,Environmental,Very High,Low,Closed
+R9003,P1002,Land Acquisition,Low,Critical,Closed
+R9004,P1002,Financial,Very High,Low,Monitoring
+R9005,P1002,Schedule,Very High,High,Mitigated
+R9006,P1003,Safety,Low,Low,Mitigated
+R9007,P1004,Land Acquisition,High,High,Closed
+R9008,P1004,Safety,Very High,Medium,Mitigated
+R9009,P1004,Regulatory,High,Low,Mitigated
+R9010,P1004,Safety,Very High,High,Monitoring
+R9011,P1004,Supply Chain,Medium,Critical,Monitoring
+R9012,P1004,Financial,High,Low,Mitigated
+R9013,P1005,Supply Chain,Medium,Low,Closed
+R9014,P1005,Schedule,Medium,Medium,Mitigated
+R9015,P1006,,Medium,Critical,Closed
+R9016,P1006,Supply Chain,High,High,Closed
+R9017,P1006,Financial,Medium,Low,Closed
+R9018,P1007,Environmental,Medium,Low,Mitigated
+R9019,P1007,Land Acquisition,Very High,Medium,Mitigated
+R9020,P1007,Technical,High,Severe,Mitigated
+R9021,P1007,Financial,Medium,Low,Monitoring
+R9022,P1008,Safety,High,Low,Open
+R9023,P1009,Financial,Very High,Medium,Monitoring
+R9024,P1009,Regulatory,Low,Medium,Mitigated
+R9025,P1009,Safety,,Medium,Monitoring
+R9026,P1010,Financial,Medium,Medium,Mitigated
+R9027,P1010,Financial,Medium,High,Open
+R9028,P1010,Supply Chain,Medium,Critical,Open
+R9029,P1011,Supply Chain,High,Critical,Mitigated
+R9030,P1011,Schedule,High,Medium,Closed
+R9031,P1012,Environmental,Medium,,Mitigated
+R9032,P1012,Technical,Very High,High,Open
+R9033,P1013,Regulatory,Medium,Low,Mitigated
+R9034,P1013,Financial,Medium,High,Mitigated
+R9035,P1013,Environmental,High,Medium,Closed
+R9036,P1013,Safety,Low,Critical,Open
+R9037,P1014,Land Acquisition,Very High,High,Closed
+R9038,P1014,Land Acquisition,Medium,High,Monitoring
+R9039,P1014,Technical,Very High,Critical,Monitoring
+R9040,P1014,Environmental,Low,Medium,Mitigated
+R9041,P1014,Environmental,Very High,Medium,Closed
+R9042,P1015,Supply Chain,,Critical,Mitigated
+R9043,P1015,Schedule,High,Low,Mitigated
+R9044,P1015,Environmental,High,Critical,Monitoring
+R9045,P1016,Technical,Low,Critical,Monitoring
+R9046,P1016,Technical,Very High,Critical,Closed
+R9047,P1016,Regulatory,High,Critical,Monitoring
+R9048,P1016,Land Acquisition,Very High,Low,Mitigated
+R9049,P1016,Supply Chain,Medium,High,Open
+R9050,P1017,Environmental,High,Low,Monitoring
+R9051,P1018,Financial,Low,Low,Monitoring
+R9052,P1019,Supply Chain,Medium,High,Mitigated
+R9053,P1019,Environmental,High,High,Monitoring
+R9054,P1019,Regulatory,Medium,High,Open
+R9055,P1019,Technical,High,High,Closed
+R9056,P1019,Technical,Low,Critical,Mitigated
+R9057,P1020,Environmental,Medium,Medium,Closed
+R9058,P1020,Schedule,Very High,Critical,Monitoring
+R9059,P1021,Environmental,Medium,Critical,Closed
+R9060,P1021,Supply Chain,Very High,Critical,Open
+R9061,P1021,Financial,Medium,Medium,Monitoring
+R9062,P1022,Technical,High,High,Mitigated
+R9063,P1022,Supply Chain,Very High,Critical,Monitoring
+R9064,P1022,Safety,Low,Low,Mitigated
+R9065,P1022,Environmental,High,Critical,Closed
+R9066,P1023,Land Acquisition,Low,Critical,Mitigated
+R9067,P1023,Regulatory,Low,High,Closed
+R9068,P1023,Safety,Low,Medium,Open
+R9069,P1023,Safety,Low,Critical,Open
+R9070,P1024,Environmental,Low,Critical,Monitoring
+R9071,P1024,Land Acquisition,Medium,High,Open
+R9072,P1025,Supply Chain,High,Low,Mitigated
+R9073,P1026,Safety,Very High,Medium,Open
+R9074,P1026,Technical,Very High,Critical,Open
+R9075,P1026,Regulatory,Medium,Medium,Mitigated
+R9076,P1026,Regulatory,Very High,Critical,Mitigated
+R9077,P1027,Environmental,Medium,Critical,Monitoring
+R9078,P1027,Schedule,Low,Medium,Closed
+R9079,P1027,Land Acquisition,Very High,Medium,Monitoring
+R9080,P1027,Schedule,Very High,Critical,Open
+R9081,P1027,Regulatory,High,Critical,Monitoring
+R9082,P1028,Safety,Medium,Critical,Mitigated
+R9083,P1028,Safety,Very High,Critical,Closed
+R9084,P1028,Environmental,,Critical,Open
+R9085,P1028,Schedule,Medium,High,Monitoring
+R9086,P1029,Supply Chain,Very High,Critical,Open
+R9087,P1029,Technical,Low,Low,Monitoring
+R9088,P1030,Financial,Medium,High,Mitigated
+R9089,P1030,Land Acquisition,Very High,Low,Open
+R9090,P1030,Environmental,Very High,,Closed
+R9091,P1030,Regulatory,Very High,Low,Open
+R9092,P1031,Land Acquisition,Medium,High,Closed
+R9093,P1032,Land Acquisition,Low,Low,Mitigated
+R9094,P1032,Safety,Medium,Critical,Monitoring
+R9095,P1032,Safety,Medium,Low,Open
+R9096,P1032,Safety,High,Low,Closed
+R9097,P1033,Land Acquisition,Low,High,Mitigated
+R9098,P1034,Environmental,Medium,Medium,Open
+R9099,P1034,Technical,Very High,Low,Open
+R9100,P1034,Financial,High,Critical,Open
+R9101,P1035,Supply Chain,Very High,Medium,Mitigated
+R9102,P1036,Technical,Medium,Low,Open
+R9103,P1036,Environmental,Low,Low,Monitoring
+R9104,P1037,Safety,Medium,Low,Mitigated
+R9105,P1038,Supply Chain,Very High,Low,Monitoring
+R9106,P1039,Technical,,Medium,Closed
+R9107,P1039,Schedule,Low,Medium,Mitigated
+R9108,P1039,Financial,High,High,Mitigated
+R9109,P1039,Technical,Very High,High,Open
+R9110,P1039,Schedule,Medium,Critical,Mitigated
+R9111,P1040,Environmental,High,Low,Open
+R9112,P1040,Schedule,Very High,High,Closed
+R9113,P1040,,Medium,High,Open
+R9114,P1041,Supply Chain,Medium,High,Mitigated
+R9115,P1041,Financial,Very High,Low,Monitoring
+R9116,P1041,Financial,Very High,Critical,Mitigated
+R9117,P1041,Regulatory,Medium,Low,Open
+R9118,P1042,Financial,Very High,Medium,Open
+R9119,P1042,Regulatory,Medium,High,Closed
+R9120,P1043,Financial,Medium,Critical,Mitigated
+R9121,P1043,Safety,Medium,Critical,Monitoring
+R9122,P1044,Regulatory,High,Low,Closed
+R9123,P1044,Supply Chain,Low,Medium,Monitoring
+R9124,P1044,Environmental,Medium,Medium,Open
+R9125,P1044,,Very High,High,Mitigated
+R9126,P1045,Schedule,Low,Low,Closed
+R9127,P1046,Safety,Low,Medium,Mitigated
+R9128,P1046,Environmental,Low,Medium,Mitigated
+R9129,P1047,Regulatory,Low,Critical,Closed
+R9130,P1047,Technical,Medium,Medium,Mitigated
+R9131,P1047,Regulatory,Medium,Medium,Monitoring
+R9132,P1047,Land Acquisition,Very High,Medium,Monitoring
+R9133,P1047,Technical,Low,High,Closed
+R9134,P1048,Technical,Very High,Critical,Closed
+R9135,P1048,Technical,Medium,Critical,Open
+R9136,P1049,Safety,Low,High,Mitigated
+R9137,P1049,Regulatory,High,Critical,Closed
+R9138,P1049,Land Acquisition,Very High,High,Closed
+R9139,P1049,Land Acquisition,Low,High,Mitigated
+R9140,P1050,Financial,Medium,Medium,Open
+R9141,P1050,Technical,High,Critical,Closed
+R9142,P1051,Regulatory,High,Critical,Closed
+R9143,P1051,Schedule,Low,Critical,Open
+R9144,P1051,Technical,Very High,,Mitigated
+R9145,P1051,Supply Chain,High,High,Closed
+R9146,P1052,Environmental,Very High,Critical,Mitigated
+R9147,P1053,Safety,Low,High,Open
+R9148,P1053,Regulatory,High,Critical,Mitigated
+R9149,P1053,Schedule,Medium,Medium,Open
+R9150,P1053,Schedule,Low,Critical,Closed
+R9151,P1054,Technical,Medium,Critical,Mitigated
+R9152,P1054,,High,High,Closed
+R9153,P1054,Supply Chain,Very High,Low,Open
+R9154,P1054,Technical,Medium,High,Mitigated
+R9155,P1054,Land Acquisition,High,Low,Mitigated
+R9156,P1055,Technical,Low,Low,Closed
+R9157,P1056,Supply Chain,Very High,Medium,Mitigated
+R9158,P1056,Land Acquisition,Medium,Medium,Mitigated
+R9159,P1056,Environmental,Medium,Low,Closed
+R9160,P1057,Environmental,Medium,Low,Mitigated
+R9161,P1057,Schedule,High,Critical,Closed
+R9162,P1058,Technical,Low,High,Open
+R9163,P1058,Supply Chain,Low,High,Open
+R9164,P1059,Schedule,Medium,Critical,Closed
+R9165,P1060,,Low,High,Open
+R9166,P1061,Regulatory,Medium,Low,Closed
+R9167,P1062,Supply Chain,Very High,High,Closed
+R9168,P1062,Environmental,High,High,Monitoring
+R9169,P1062,Financial,High,Critical,Closed
+R9170,P1062,Financial,High,High,Open
+R9171,P1063,Schedule,Very High,Medium,Open
+R9172,P1063,Land Acquisition,High,Medium,Monitoring
+R9173,P1063,Financial,Very High,Critical,Mitigated
+R9174,P1063,Financial,High,Low,Monitoring
+R9175,P1064,Technical,Very High,Medium,Closed
+R9176,P1064,Land Acquisition,Low,High,Closed
+R9177,P1064,Environmental,Low,Critical,Monitoring
+R9178,P1065,Schedule,Low,Medium,Closed
+R9179,P1065,Land Acquisition,High,Critical,Mitigated
+R9180,P1066,Environmental,Very High,Medium,Mitigated
+R9181,P1067,Financial,Low,Low,Closed
+R9182,P1067,Regulatory,Medium,High,Closed
+R9183,P1068,Safety,High,Critical,Open
+R9184,P1068,Environmental,Very High,Low,Monitoring
+R9185,P1069,Technical,Low,High,Closed
+R9186,P1069,Regulatory,Very High,Medium,Mitigated
+R9187,P1069,Schedule,Low,High,Open
+R9188,P1069,Schedule,Low,High,Mitigated
+R9189,P1069,Technical,High,Medium,Monitoring
+R9190,P1070,Environmental,Low,High,Open
+R9191,P1070,Supply Chain,Very High,Critical,
+R9192,P1070,Technical,Medium,Medium,Open
+R9193,P1070,Safety,Low,Critical,Monitoring
+R9194,P1070,Land Acquisition,High,Medium,Closed
+R9195,P1071,Supply Chain,High,Medium,Open
+R9196,P1071,Land Acquisition,High,Low,Monitoring
+R9197,P1072,Financial,Very High,High,Closed
+R9198,P1072,Environmental,High,Medium,Mitigated
+R9199,P1073,Regulatory,Medium,Critical,
+R9200,P1074,Technical,Low,Critical,Monitoring
+R9201,P1074,Technical,Very High,High,Closed
+R9202,P1075,Technical,High,High,Mitigated
+R9203,P1076,Regulatory,Medium,High,Open
+R9204,P1077,Land Acquisition,Medium,Medium,Closed
+R9205,P1077,Environmental,High,Medium,Mitigated
+R9206,P1077,Schedule,Medium,Low,Monitoring
+R9207,P1077,Safety,Medium,Critical,Closed
+R9208,P1078,Safety,Low,High,Closed
+R9209,P1079,Safety,Low,High,Closed
+R9210,P1080,Environmental,Medium,Low,Open
+R9211,P1080,Safety,Very High,Critical,Monitoring
+R9212,P1080,Technical,Very High,Low,Closed
+R9213,P1080,Financial,High,Critical,Monitoring
+R9214,P1081,Land Acquisition,Low,Low,Open
+R9215,P1082,Regulatory,Medium,Low,Closed
+R9216,P1082,Land Acquisition,Low,Medium,Closed
+R9217,P1082,Schedule,Very High,High,Mitigated
+R9218,P1082,Technical,High,Low,Mitigated
+R9219,P1082,Schedule,Low,Critical,Closed
+R9220,P1083,Safety,Low,Medium,Open
+R9221,P1083,Supply Chain,Medium,Low,Closed
+R9222,P1083,Environmental,Low,Low,Mitigated
+R9223,P1083,Financial,Medium,Low,Monitoring
+R9224,P1083,Supply Chain,Low,Low,Monitoring
+R9225,P1084,Environmental,Medium,Critical,Open
+R9226,P1084,Land Acquisition,High,Low,Monitoring
+R9227,P1084,Supply Chain,Medium,Critical,Monitoring
+R9228,P1084,Environmental,Medium,Low,Open
+R9229,P1084,Regulatory,Low,Medium,Mitigated
+R9230,P1085,Regulatory,Medium,Medium,Monitoring
+R9231,P1085,Regulatory,Medium,Critical,Open
+R9232,P1086,Land Acquisition,Very High,Medium,Closed
+R9233,P1086,Safety,Low,High,Closed
+R9234,P1086,Environmental,Medium,Low,Monitoring
+R9235,P1087,Supply Chain,Medium,Critical,Mitigated
+R9236,P1087,Environmental,Very High,Critical,Open
+R9237,P1087,Schedule,Low,High,Open
+R9238,P1088,Schedule,Very High,Low,Monitoring
+R9239,P1088,Safety,High,High,Monitoring
+R9240,P1088,Schedule,Medium,High,Open
+R9241,P1088,Schedule,Very High,Medium,Closed
+R9242,P1088,Land Acquisition,Low,Medium,Monitoring
+R9243,P1089,Schedule,High,High,Monitoring
+R9244,P1090,Safety,Medium,High,Closed
+R9245,P1091,Regulatory,Very High,Critical,Mitigated
+R9246,P1091,Safety,Low,Medium,Mitigated
+R9247,P1091,Supply Chain,Very High,High,Open
+R9248,P1092,Land Acquisition,Very High,Critical,Mitigated
+R9249,P1092,Regulatory,High,Critical,Monitoring
+R9250,P1093,Regulatory,Medium,High,Open
+R9251,P1093,Schedule,Very High,High,Open
+R9252,P1093,Safety,Low,Medium,Open
+R9253,P1093,Land Acquisition,Low,Low,Monitoring
+R9254,P1094,Land Acquisition,Very High,Medium,Closed
+R9255,P1095,Environmental,Low,Critical,Open
+R9256,P1095,Environmental,Low,Critical,Monitoring
+R9257,P1095,Environmental,Low,Critical,Mitigated
+R9258,P1095,Safety,Medium,Low,Monitoring
+R9259,P1095,Land Acquisition,High,Low,Closed
+R9260,P1096,Supply Chain,Medium,High,Open
+R9261,P1096,Regulatory,Medium,Low,Monitoring
+R9262,P1096,Environmental,Very High,High,Monitoring
+R9263,P1096,Regulatory,Low,Critical,Mitigated
+R9264,P1097,Financial,Low,Critical,Closed
+R9265,P1097,Supply Chain,High,Low,Closed
+R9266,P1097,Financial,High,High,Open
+R9267,P1097,Supply Chain,High,Medium,Closed
+R9268,P1097,Land Acquisition,Low,Low,Closed
+R9269,P1098,Schedule,Low,Medium,Closed
+R9270,P1098,Regulatory,Very High,Low,Mitigated
+R9271,P1099,Regulatory,Very High,Critical,Monitoring
+R9272,P1099,Regulatory,High,Critical,Mitigated
+R9273,P1100,Safety,Very High,Critical,Mitigated
+R9274,P1101,Environmental,Very High,Low,Monitoring
+R9275,P1101,Financial,Low,Medium,Monitoring
+R9276,P1101,Supply Chain,Medium,Critical,Closed
+R9277,P1102,Regulatory,Medium,Medium,Closed
+R9278,P1103,Safety,Very High,Critical,Closed
+R9279,P1104,Schedule,Very High,Critical,Mitigated
+R9280,P1104,Safety,Low,Low,Mitigated
+R9281,P1104,Financial,High,Low,Mitigated
+R9282,P1105,Land Acquisition,Very High,Low,Closed
+R9283,P1105,Schedule,High,High,Closed
+R9284,P1105,Safety,Very High,Medium,Mitigated
+R9285,P1106,Environmental,High,Low,Monitoring
+R9286,P1106,Schedule,Very High,Medium,Closed
+R9287,P1107,Environmental,Medium,Medium,Mitigated
+R9288,P1107,Financial,Low,Medium,Closed
+R9289,P1107,Technical,High,Medium,Mitigated
+R9290,P1107,Financial,Low,Medium,Open
+R9291,P1107,Environmental,Very High,Critical,Monitoring
+R9292,P1108,Financial,High,Critical,Closed
+R9293,P1108,Schedule,Very High,Low,Monitoring
+R9294,P1109,Technical,High,High,Monitoring
+R9295,P1109,Safety,Medium,High,Open
+R9296,P1109,Supply Chain,Low,Low,Open
+R9297,P1110,Schedule,High,Critical,Monitoring
+R9298,P1110,Land Acquisition,Very High,Medium,Monitoring
+R9299,P1111,Schedule,High,High,Open
+R9300,P1111,Supply Chain,Low,Medium,Monitoring
+R9301,P1111,Regulatory,High,High,Mitigated
+R9302,P1112,Safety,Very High,Low,Open
+R9303,P1112,Environmental,Low,Low,Mitigated
+R9304,P1113,Regulatory,Low,Low,Monitoring
+R9305,P1113,Financial,Very High,Medium,Mitigated
+R9306,P1113,Regulatory,Medium,Medium,Closed
+R9307,P1113,Schedule,High,High,Closed
+R9308,P1114,Financial,Low,Critical,Closed
+R9309,P1114,Regulatory,Medium,High,Mitigated
+R9310,P1114,Technical,Low,Low,
+R9311,P1114,Land Acquisition,Very High,Low,Mitigated
+R9312,P1115,Regulatory,Very High,Critical,Closed
+R9313,P1115,Safety,Medium,Medium,Open
+R9314,P1115,Regulatory,Medium,Low,Closed
+R9315,P1115,Regulatory,High,Medium,Monitoring
+R9316,P1115,Financial,Low,Medium,Mitigated
+R9317,P1116,Safety,Medium,High,Open
+R9318,P1116,Financial,High,Medium,Monitoring
+R9319,P1116,Financial,Medium,Medium,Open
+R9320,P1116,Schedule,High,High,Monitoring
+R9321,P1116,Regulatory,High,Medium,Closed
+R9322,P1117,Environmental,Low,Low,Monitoring
+R9323,P1117,Financial,High,Medium,Monitoring
+R9324,P1117,Environmental,Low,Critical,Monitoring
+R9325,P1118,Environmental,Medium,High,Monitoring
+R9326,P1118,Environmental,Very High,Medium,Closed
+R9327,P1118,Land Acquisition,Very High,High,Mitigated
+R9328,P1118,Land Acquisition,Low,Critical,Mitigated
+R9329,P1119,Safety,Medium,Medium,Closed
+R9330,P1119,Safety,High,Low,Monitoring
+R9331,P1120,Safety,Very High,Medium,Open
+R9332,P1120,Land Acquisition,Low,Critical,Mitigated
+R9333,P1121,Schedule,Low,Medium,Open
+R9334,P1121,Schedule,Very High,Critical,Open
+R9335,P1121,Environmental,Low,Low,Mitigated
+R9336,P1121,Financial,Low,High,Mitigated
+R9337,P1122,Environmental,Low,High,Open
+R9338,P1123,Regulatory,Very High,Critical,Mitigated
+R9339,P1123,Environmental,High,Critical,Mitigated
+R9340,P1124,Financial,High,Low,Open
+R9341,P1125,Safety,High,Low,Closed
+R9342,P1126,Technical,Medium,Low,Mitigated
+R9343,P1127,Environmental,Medium,High,Monitoring
+R9344,P1127,Safety,,Low,Closed
+R9345,P1127,Regulatory,Low,Medium,Open
+R9346,P1127,Schedule,High,Low,Monitoring
+R9347,P1128,Safety,Low,Low,Mitigated
+R9348,P1128,Technical,Very High,High,Mitigated
+R9349,P1128,Supply Chain,Medium,High,Monitoring
+R9350,P1129,Regulatory,High,Critical,Monitoring
+R9351,P1130,Supply Chain,Low,Medium,Mitigated
+R9352,P1131,Schedule,Very High,Critical,Closed
+R9353,P1131,Safety,Low,Critical,Monitoring
+R9354,P1132,Technical,High,Medium,Mitigated
+R9355,P1133,Land Acquisition,High,Critical,Closed
+R9356,P1133,Environmental,Very High,High,Mitigated
+R9357,P1133,Land Acquisition,Very High,Critical,Closed
+R9358,P1134,Technical,Medium,Critical,Open
+R9359,P1134,Supply Chain,Medium,Low,Mitigated
+R9360,P1134,Supply Chain,Low,Medium,Open
+R9361,P1134,Financial,Very High,Medium,Open
+R9362,P1134,Regulatory,High,High,Mitigated
+R9363,P1135,Environmental,Medium,Critical,Mitigated
+R9364,P1135,Schedule,Medium,Low,Mitigated
+R9365,P1135,Technical,Medium,Critical,Open
+R9366,P1135,,High,Low,Open
+R9367,P1136,Supply Chain,Medium,Low,Mitigated
+R9368,P1136,Schedule,Medium,Low,Mitigated
+R9369,P1136,Safety,Low,Critical,Mitigated
+R9370,P1136,Land Acquisition,Very High,Medium,Monitoring
+R9371,P1137,Regulatory,High,Critical,Open
+R9372,P1137,Financial,Low,Medium,Open
+R9373,P1137,Technical,Medium,Medium,Open
+R9374,P1137,Regulatory,Very High,Critical,Monitoring
+R9375,P1138,Schedule,Very High,Medium,Monitoring
+R9376,P1138,Technical,Very High,Medium,Mitigated
+R9377,P1139,Safety,Low,Medium,Closed
+R9378,P1139,Supply Chain,Low,Critical,Closed
+R9379,P1139,Financial,Very High,Critical,Mitigated
+R9380,P1139,Regulatory,High,Critical,Mitigated
+R9381,P1139,Supply Chain,Low,Low,Open
+R9382,P1140,Regulatory,High,Low,Mitigated
+R9383,P1140,Environmental,Medium,Low,Open
+R9384,P1140,Environmental,Low,High,Mitigated
+R9385,P1140,Schedule,Low,Medium,Monitoring
+R9386,P1140,Financial,Low,Critical,Open
+R9387,P1141,Supply Chain,Low,High,Open
+R9388,P1141,Supply Chain,High,Critical,Mitigated
+R9389,P1141,Schedule,Very High,High,Mitigated
+R9390,P1142,Financial,Very High,Low,Mitigated
+R9391,P1142,Regulatory,Very High,Critical,Open
+R9392,P1142,Schedule,Medium,Medium,Closed
+R9393,P1143,Safety,Medium,Medium,Mitigated
+R9394,P1144,Supply Chain,High,Critical,Mitigated
+R9395,P1144,Financial,High,High,Closed
+R9396,P1144,Schedule,Very High,Medium,Mitigated
+R9397,P1144,Financial,Medium,Critical,Open
+R9398,P1144,Land Acquisition,Medium,High,Open
+R9399,P1145,Regulatory,Very High,High,Mitigated
+R9400,P1146,Supply Chain,Low,High,Monitoring
+R9401,P1146,Land Acquisition,Low,Low,Mitigated
+R9402,P1147,Safety,Very High,High,Closed
+R9403,P1147,Supply Chain,Low,Critical,Open
+R9404,P1147,Safety,High,Critical,Closed
+R9405,P1148,Schedule,High,High,Monitoring
+R9406,P1148,Financial,Very High,Critical,Monitoring
+R9407,P1148,Safety,Low,Medium,Open
+R9408,P1148,Safety,Low,High,Closed
+R9409,P1149,Technical,Very High,Low,Mitigated
+R9410,P1149,Land Acquisition,Very High,Low,Monitoring
+R9411,P1149,Schedule,Very High,Critical,Open
+R9412,P1149,Technical,Medium,Low,Closed
+R9413,P1149,Schedule,Medium,Critical,Monitoring
+R9414,P1150,Land Acquisition,High,Critical,Mitigated
+R9415,P1150,Financial,Low,High,
+R9416,P1150,Environmental,Medium,Critical,Mitigated
+R9417,P1151,Supply Chain,Low,Null,Open
+R9418,P1151,Financial,Very High,Critical,Mitigated
+R9419,P1151,Regulatory,Medium,Low,Closed
+R9420,P1152,Schedule,Medium,Low,Mitigated
+R9421,P1152,Regulatory,High,Critical,Open
+R9422,P1152,Regulatory,Very High,Critical,Mitigated
+R9423,P1153,Supply Chain,Low,Low,Closed
+R9424,P1153,Supply Chain,High,Medium,Mitigated
+R9425,P1154,Technical,Very High,Critical,Mitigated
+R9426,P1154,Environmental,High,,Open
+R9427,P1154,Supply Chain,Low,Medium,Monitoring
+R9428,P1154,Safety,Low,Medium,Closed
+R9429,P1155,Regulatory,High,Low,Closed
+R9430,P1155,Land Acquisition,Low,Critical,Mitigated
+R9431,P1155,Environmental,Low,Low,Mitigated
+R9432,P1155,Environmental,Very High,Medium,Closed
+R9433,P1156,Supply Chain,Medium,Medium,Open
+R9434,P1156,Regulatory,High,Low,Monitoring
+R9435,P1156,Technical,Low,Critical,Closed
+R9436,P1157,Supply Chain,High,High,Closed
+R9437,P1157,Technical,,Medium,Closed
+R9438,P1157,Technical,High,Medium,Mitigated
+R9439,P1157,Regulatory,Very High,High,Closed
+R9440,P1158,Schedule,Low,Low,Open
+R9441,P1158,Land Acquisition,Low,Critical,Open
+R9442,P1158,Regulatory,Low,Critical,Open
+R9443,P1158,Land Acquisition,Very High,Medium,Mitigated
+R9444,P1158,Land Acquisition,Very High,Low,Mitigated
+R9445,P1159,Technical,High,Critical,Closed
+R9446,P1160,Regulatory,High,Medium,Monitoring
+R9447,P1161,Financial,High,Critical,Mitigated
+R9448,P1161,Financial,Very High,Low,Open
+R9449,P1161,Supply Chain,Medium,High,Monitoring
+R9450,P1162,Environmental,Very High,Medium,Closed
+R9451,P1162,Safety,Very High,Low,Closed
+R9452,P1163,Safety,Medium,Critical,Monitoring
+R9453,P1163,Safety,Very High,Medium,Open
+R9454,P1163,Safety,Low,Critical,Monitoring
+R9455,P1163,Schedule,,Medium,Open
+R9456,P1164,Financial,Very High,Low,Mitigated
+R9457,P1165,Safety,Low,Critical,Open
+R9458,P1165,Environmental,Very High,High,Mitigated
+R9459,P1165,Environmental,Medium,High,Mitigated
+R9460,P1165,Regulatory,Very High,High,
+R9461,P1165,Schedule,Low,Medium,Open
+R9462,P1166,Safety,Very High,Low,Open
+R9463,P1167,Schedule,High,Medium,Open
+R9464,P1167,Technical,Very High,High,Mitigated
+R9465,P1167,Technical,Low,Null,Open
+R9466,P1168,Technical,Very High,Low,Mitigated
+R9467,P1169,Safety,High,Critical,Mitigated
+R9468,P1169,Financial,High,Low,Mitigated
+R9469,P1169,Land Acquisition,Low,High,Monitoring
+R9470,P1169,Schedule,Low,Medium,Monitoring
+R9471,P1170,Environmental,Low,Low,Mitigated
+R9472,P1170,Financial,High,Low,Mitigated
+R9473,P1171,Safety,Medium,Medium,Open
+R9474,P1171,Environmental,High,High,Closed
+R9475,P1171,Land Acquisition,Low,High,Monitoring
+R9476,P1172,Regulatory,Very High,Critical,Mitigated
+R9477,P1172,,Medium,Medium,Monitoring
+R9478,P1172,Environmental,Low,High,Mitigated
+R9479,P1172,Technical,Very High,Critical,Closed
+R9480,P1173,Technical,High,High,Open
+R9481,P1173,Supply Chain,Very High,,Monitoring
+R9482,P1173,Financial,Low,Critical,Mitigated
+R9483,P1173,Supply Chain,High,Critical,Monitoring
+R9484,P1173,Safety,Very High,Low,Open
+R9485,P1174,Environmental,Very High,Medium,Monitoring
+R9486,P1174,Supply Chain,Low,Medium,Monitoring
+R9487,P1174,Financial,Medium,High,Open
+R9488,P1174,Land Acquisition,Low,High,Mitigated
+R9489,P1175,Technical,High,Medium,Open
+R9490,P1175,Schedule,High,Medium,Mitigated
+R9491,P1176,Technical,High,Low,Closed
+R9492,P1176,Environmental,High,High,Mitigated
+R9493,P1176,Financial,Low,Critical,Closed
+R9494,P1176,Schedule,High,Critical,Open
+R9495,P1176,Technical,Very High,Medium,Monitoring
+R9496,P1177,Financial,Low,High,Open
+R9497,P1177,Technical,Very High,High,Mitigated
+R9498,P1178,Schedule,Low,High,Open
+R9499,P1179,Regulatory,Low,Critical,Monitoring
+R9500,P1179,Schedule,High,High,Closed
+R9501,P1179,Technical,High,Critical,Open
+R9502,P1179,Schedule,High,Critical,Closed
+R9503,P1180,Financial,Low,Low,Mitigated
+R9504,P1180,Supply Chain,Low,Medium,Open
+R9505,P1180,Schedule,Very High,Medium,Mitigated
+R9506,P1181,Regulatory,High,Low,Open
+R9507,P1181,Regulatory,Low,Low,Open
+R9508,P1182,Regulatory,High,High,Closed
+R9509,P1183,Safety,Medium,Critical,Open
+R9510,P1183,Land Acquisition,High,Medium,Closed
+R9511,P1184,,Medium,Critical,Closed
+R9512,P1185,Regulatory,Very High,Medium,Open
+R9513,P1185,Environmental,,Low,
+R9514,P1185,Land Acquisition,Medium,Low,Open
+R9515,P1186,Land Acquisition,Medium,Low,Mitigated
+R9516,P1187,Supply Chain,Medium,Critical,Open
+R9517,P1187,Land Acquisition,Medium,High,Monitoring
+R9518,P1187,Environmental,Medium,Low,Mitigated
+R9519,P1187,Environmental,High,,Closed
+R9520,P1188,Technical,Medium,Low,Monitoring
+R9521,P1188,Safety,Medium,High,Open
+R9522,P1188,Environmental,Very High,Low,Open
+R9523,P1188,Regulatory,Low,Critical,Mitigated
+R9524,P1189,Regulatory,Very High,Critical,Monitoring
+R9525,P1190,Environmental,Low,High,Closed
+R9526,P1191,Financial,Very High,Critical,Monitoring
+R9527,P1191,Schedule,Very High,High,Monitoring
+R9528,P1192,Regulatory,Very High,Critical,Mitigated
+R9529,P1193,Land Acquisition,Very High,Medium,Monitoring
+R9530,P1193,Environmental,Very High,Low,Open
+R9531,P1194,Financial,Medium,Low,Open
+R9532,P1195,Schedule,High,Medium,Open
+R9533,P1195,Technical,High,,Closed
+R9534,P1195,Regulatory,Very High,Low,Mitigated
+R9535,P1195,Environmental,Very High,Medium,Mitigated
+R9536,P1195,Financial,High,High,Monitoring
+R9537,P1196,Environmental,Medium,Critical,
+R9538,P1197,Safety,High,Low,Mitigated
+R9539,P1197,Financial,High,Critical,Mitigated
+R9540,P1198,Safety,Very High,High,Open
+R9541,P1198,Financial,High,Low,Mitigated
+R9542,P1198,Land Acquisition,High,Critical,Open
+R9543,P1198,Financial,Medium,Critical,Open
+R9544,P1199,Safety,High,Medium,Mitigated
+R9545,P1200,Land Acquisition,Low,High,
+R9546,P1201,Regulatory,High,High,Closed
+R9547,P1201,Supply Chain,High,Critical,Open
+R9548,P1201,Schedule,High,High,Closed
+R9549,P1201,Technical,High,Low,Mitigated
+R9550,P1202,Financial,Medium,,Closed
+R9551,P1202,Environmental,Medium,Critical,Monitoring
+R9552,P1203,Regulatory,Medium,Critical,Open
+R9553,P1204,,Very High,Medium,Monitoring
+R9554,P1204,Regulatory,High,Critical,Closed
+R9555,P1204,Supply Chain,High,Medium,Open
+R9556,P1204,,Low,Critical,
+R9557,P1204,Land Acquisition,High,Low,Open
+R9558,P1205,Safety,Very High,Medium,Monitoring
+R9559,P1205,Schedule,High,Critical,Monitoring
+R9560,P1206,Environmental,Low,Critical,Open
+R9561,P1206,Land Acquisition,High,Low,Open
+R9562,P1206,Supply Chain,High,Low,Closed
+R9563,P1207,Supply Chain,Low,High,Mitigated
+R9564,P1208,Safety,Medium,Low,Monitoring
+R9565,P1208,Regulatory,Medium,Critical,Open
+R9566,P1208,Supply Chain,Medium,Low,Closed
+R9567,P1209,Schedule,Very High,Critical,Closed
+R9568,P1209,Safety,High,High,Monitoring
+R9569,P1210,Environmental,Very High,High,Mitigated
+R9570,P1210,Environmental,High,Medium,Closed
+R9571,P1210,Regulatory,High,High,Open
+R9572,P1210,Technical,Very High,Medium,Closed
+R9573,P1210,Supply Chain,Low,Medium,Closed
+R9574,P1211,Technical,High,Critical,Monitoring
+R9575,P1211,Land Acquisition,Very High,Critical,Closed
+R9576,P1211,Schedule,Low,Low,Closed
+R9577,P1211,Supply Chain,Medium,High,Mitigated
+R9578,P1211,Technical,Medium,High,Open
+R9579,P1212,Land Acquisition,Very High,Low,Closed
+R9580,P1212,Regulatory,Low,Low,Open
+R9581,P1213,Land Acquisition,High,Low,Monitoring
+R9582,P1214,Environmental,Low,Low,Open
+R9583,P1214,Environmental,Medium,Critical,Mitigated
+R9584,P1214,Financial,Medium,High,Monitoring
+R9585,P1215,Financial,Medium,Low,Open
+R9586,P1215,Environmental,Medium,Low,Open
+R9587,P1215,Financial,Medium,Low,Closed
+R9588,P1215,Schedule,Very High,Critical,Open
+R9589,P1216,Environmental,Very High,Critical,Mitigated
+R9590,P1216,Technical,High,Critical,Open
+R9591,P1216,Safety,Medium,Low,Mitigated
+R9592,P1217,Land Acquisition,Medium,Medium,Closed
+R9593,P1217,Land Acquisition,High,High,Open
+R9594,P1218,Schedule,High,Critical,Closed
+R9595,P1218,Safety,Very High,Critical,Closed
+R9596,P1218,Schedule,Low,High,Closed
+R9597,P1219,Financial,Very High,Low,Monitoring
+R9598,P1219,Safety,Very High,Low,Monitoring
+R9599,P1219,Financial,Very High,Critical,Monitoring
+R9600,P1219,Supply Chain,Medium,High,Mitigated
+R9601,P1219,Safety,Very High,Low,Mitigated
+R9602,P1220,Regulatory,High,Critical,Mitigated
+R9603,P1220,Land Acquisition,High,Critical,Open
+R9604,P1220,Regulatory,Very High,Critical,Mitigated
+R9605,P1221,Schedule,High,High,Closed
+R9606,P1221,Environmental,Low,Low,Mitigated
+R9607,P1222,Supply Chain,Low,Critical,Closed
+R9608,P1223,Technical,Medium,Low,Mitigated
+R9609,P1223,Regulatory,,Low,Open
+R9610,P1224,Supply Chain,Low,Low,Closed
+R9611,P1225,Schedule,Low,Medium,Monitoring
+R9612,P1225,Environmental,Very High,Critical,Mitigated
+R9613,P1225,Land Acquisition,Medium,High,Closed
+R9614,P1225,Safety,High,Medium,Mitigated
+R9615,P1225,Financial,Very High,Medium,Open
+R9616,P1226,Financial,Medium,Low,Mitigated
+R9617,P1227,Safety,Very High,Low,Monitoring
+R9618,P1227,Land Acquisition,Very High,Medium,Mitigated
+R9619,P1227,Schedule,High,High,Mitigated
+R9620,P1228,Schedule,Very High,Critical,Open
+R9621,P1228,Schedule,Medium,High,Open
+R9622,P1228,Supply Chain,Very High,Medium,Open
+R9623,P1228,Regulatory,Low,Medium,Monitoring
+R9624,P1229,Regulatory,High,Low,Mitigated
+R9625,P1229,Technical,Low,Medium,Monitoring
+R9626,P1229,Regulatory,Low,Low,Closed
+R9627,P1229,Technical,Low,Low,Monitoring
+R9628,P1230,Safety,Medium,High,Open
+R9629,P1230,Environmental,Medium,High,Open
+R9630,P1230,Supply Chain,Very High,Low,Open
+R9631,P1231,Safety,Very High,Low,Closed
+R9632,P1232,Land Acquisition,Low,Low,Open
+R9633,P1232,Land Acquisition,Medium,High,
+R9634,P1232,Financial,High,Medium,Open
+R9635,P1233,Land Acquisition,Medium,Critical,Open
+R9636,P1234,Technical,Very High,Critical,Mitigated
+R9637,P1235,Schedule,Medium,Low,Closed
+R9638,P1235,Supply Chain,High,High,Mitigated
+R9639,P1235,Environmental,Very High,Low,Mitigated
+R9640,P1235,Technical,Low,Low,Mitigated
+R9641,P1236,Financial,Low,Low,Mitigated
+R9642,P1236,Land Acquisition,Low,Low,Mitigated
+R9643,P1236,Supply Chain,Medium,High,Open
+R9644,P1236,Safety,High,Medium,Monitoring
+R9645,P1236,Schedule,Very High,Critical,Open
+R9646,P1237,Supply Chain,High,Medium,Closed
+R9647,P1238,Regulatory,Very High,High,Monitoring
+R9648,P1238,Schedule,Medium,High,Monitoring
+R9649,P1239,Regulatory,High,Critical,Closed
+R9650,P1240,Regulatory,Medium,Medium,Mitigated
+R9651,P1241,Safety,Medium,Low,Monitoring
+R9652,P1241,Land Acquisition,Low,Medium,Closed
+R9653,P1241,Financial,Low,Low,Closed
+R9654,P1241,Regulatory,High,High,Closed
+R9655,P1241,Technical,,Low,Monitoring
+R9656,P1242,Land Acquisition,Low,Critical,Closed
+R9657,P1242,Technical,Low,Medium,Mitigated
+R9658,P1242,Regulatory,Medium,Critical,Open
+R9659,P1242,Supply Chain,Low,High,Open
+R9660,P1243,Technical,Medium,Low,Monitoring
+R9661,P1243,Technical,Very High,Low,Open
+R9662,P1243,Regulatory,High,Critical,Closed
+R9663,P1244,Safety,Very High,Critical,Mitigated
+R9664,P1244,Schedule,Low,High,Monitoring
+R9665,P1245,Financial,High,High,Closed
+R9666,P1245,Regulatory,High,High,Monitoring
+R9667,P1246,Supply Chain,Low,Low,Monitoring
+R9668,P1246,Land Acquisition,High,Medium,Closed
+R9669,P1246,Land Acquisition,Low,Critical,Open
+R9670,P1246,Environmental,Low,High,Closed
+R9671,P1246,Regulatory,Very High,Low,Open
+R9672,P1247,Safety,High,Low,Closed
+R9673,P1247,Land Acquisition,High,High,Monitoring
+R9674,P1247,Safety,Medium,Medium,Mitigated
+R9675,P1247,Financial,Low,Medium,Open
+R9676,P1247,Financial,Medium,Critical,Monitoring
+R9677,P1248,Regulatory,Medium,Low,Monitoring
+R9678,P1248,Environmental,Low,High,Open
+R9679,P1248,Land Acquisition,High,Low,Open
+R9680,P1248,Environmental,Low,Low,Mitigated
+R9681,P1248,Schedule,High,High,Closed
+R9682,P1249,Supply Chain,High,Medium,Open
+R9683,P1249,Supply Chain,High,High,Closed
+R9684,P1249,Safety,Very High,High,Open
+R9685,P1249,Safety,High,Low,Monitoring
+R9686,P1250,Supply Chain,Low,Low,Mitigated
+R9687,P1250,Financial,High,Medium,Closed
+R9688,P1250,Schedule,Medium,Critical,Open
+R9689,P1250,Financial,Medium,Critical,Open
+R9690,P1250,Regulatory,Very High,Critical,Monitoring
+R9691,P1155,Environmental,Low,Low,Mitigated
+R9692,P1115,Regulatory,Medium,Low,Closed
+R9693,P1235,Schedule,Medium,Low,Closed
+R9694,P1195,Environmental,Very High,Medium,Mitigated
+R9695,P1098,Regulatory,Very High,Low,Mitigated
+R9696,P1127,Safety,,Low,Closed

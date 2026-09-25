@@ -1,0 +1,253 @@
+Project_ID,Project_Name,Project_Type,Region,Start_Date,Planned_End_Date,Actual_End_Date,Planned_Budget_Cr,Actual_Cost_Cr,Planned_Progress_Pct,Actual_Progress_Pct,Contractor_ID,Status
+P1001,Water Supply Project 1,Water Supply,Central,2025-12-13,2026-10-20,2026-10-30,140.97,146.36,100,100,C104,Completed
+P1002,Tunnel Project 2,Tunnel,Northeast,2022-11-30,2024-08-10,,128.71,128.97,55,59,C106,Ongoing
+P1003,Metro Project 3,Metro,West,2023-07-07,2025-12-18,2026-02-27,152.97,154.98,100,75,C107,Delayed
+P1004,Airport Project 4,Airport,North,2025-03-07,2026-09-20,2026-12-19,76.05,78.31,100,100,C104,Completed
+P1005,Airport Project 5,Airport,Northeast,2024-05-27,2026-09-11,,179.54,197.38,49,53,C110,Ongoing
+P1006,Metro Project 6,Metro,Northeast,2025-05-06,2026-03-07,,99.01,112.48,83,84,C107,Ongoing
+P1007,Airport Project 7,Airport,Northeast,2022-08-17,2024-02-08,,8.56,9.6,72,83,C106,Ongoing
+P1008,Bridge Project 8,Bridge,Northeast,2025-08-01,2027-08-30,,72.31,N/A,78,44,C105,Ongoing
+P1009,Water Supply Project 9,Water Supply,West,2022-08-18,2024-04-20,,146.77,139.25,86,68,C101,On Hold
+P1010,Tunnel Project 10,Tunnel,,2022-09-15,2023-09-21,2024-02-23,53.59,54.91,100,65,C109,Delayed
+P1011,Railway Project 11,Railway,Northeast,2024-03-28,2026-10-11,,162.73,158.53,75,81,C105,Ongoing
+P1012,Railway Project 12,Railway,Central,2022-01-15,2022-11-23,2022-12-23,19.59,18.1,100,69,C104,Delayed
+P1013,Tunnel Project 13,Tunnel,South,2022-09-28,2024-12-30,,142.95,145.37,67,56,C109,Ongoing
+P1014,Power Project 14,Power,West,2022-04-21,2024-11-05,2025-05-04 ,18.43,18.57,100,61,C112,Delayed
+P1015,Tunnel Project 15,Tunnel,South,2023-01-11,2024-06-19,,84.22,98.5,93,34,C107,Ongoing
+P1016,Highway Project 16,Highway,North,2022-12-07,2024-09-23,,-25.0,161.15,90,52,C104,Ongoing 
+P1017,Tunnel Project 17,Tunnel,East,2025-11-27,2028-02-14,2028-07-02,40.66,38.47,100,64,C107,Delayed
+P1018,Water Supply Project 18,Water Supply,North,2025-04-11,2027-04-09,,17.78,17.44,95,45,C101,Ongoing
+P1019,Railway Project 19,Railway,West,2025-03-12,2026-07-17,,114.53,144.23,53,30,C102,Ongoing
+P1020,Water Supply Project 20,Water Supply,South,2024-03-21,2025-03-30,2025-06-29,62.38,77.79,100,84,C105,Delayed
+P1021,Bridge Project 21,Bridge,North,2023-03-13,2025-04-09,2025-05-14,159.51,173.38,100,100,C109,Completed
+P1022,Airport Project 22,Airport,Central,2024-12-19,2025-08-24,2026-01-27,168.26,191.45,100,125,c111,Delayed
+P1023,Metro Project 23,Metro,East,2025-05-23,2026-08-21,2026-10-27,154.7,151.71,100,95,C105,Delayed
+P1024,Power Project 24,Power,East,2022-01-08,2023-08-12,2024-02-06,35.79,34.82,100,71,C101,Delayed
+P1025,Metro Project 25,Metro,Central,2024-01-27,2026-05-12,,29.92,34.11,62,80,C101,Ongoing
+P1026,Railway Project 26,Railway,Northeast,2025-09-27,2026-09-07,,175.5,177.24,91,77,C104,Ongoing
+P1027,Metro Project 27,Metro,N/A,2023-01-03,2024-08-05,2024-12-03,53.89,57.17,100,70,C101,Delayed
+P1028,Railway Project 28,Railway,South,2023-12-18,2025-06-22,2025-09-03,12.07,15.98,100,69,C108,Delayed
+P1029,Airport Project 29,Airport,East,2024-11-09,2026-08-20,2027-01-19,169.55,202.43,100,76,C111,Delayed
+P1030,Airport Project 30,Airport,North,2025-05-06,2027-03-21,2027-04-25,83.06,86.23,100,100,C102,Completed
+P1031,Highway Project 31,Highway,Northeast,2022-01-04,2024-02-15,,70.65,65.59,-5,45,C107,At Risk
+p1032,Bridge Project 32,Bridge,Northeast,2024-11-04,2026-05-14,2026-08-20,127.92,126.2,100,80,C105,Delayed
+ P1033,Metro Project 33,Metro,Central,2023-09-09,2025-06-25,,60.27,56.97,68,25,C110,Ongoing
+P1034,Tunnel Project 34,Tunnel,Northeast,2024-11-12,2026-11-06,2027-05-28,121.32,115.75,100,65,C104,Delayed
+P1035,Railway Project 35,Railway,Northeast,2023-04-06,2024-06-22,2024-06-22,50.11,48.96,100,100,C105,completed
+P1036,Railway Project 36,Railway,Northeast,2024-02-26,2026-03-13,,120.84,111.25,67,43,C112,Ongoing
+P1037,Railway Project 37 ,Railway,South, 2024-11-26,2026-11-11,2026-11-21,165.8,154.95,100,100,C112,Completed
+P1038,Water Supply Project 38,Water Supply,West,2024-10-30,2026-09-06,2027-02-08,162.32,163.82,100,83,C110,Delayed
+P1039,Airport Project 39,Airport,Central,2025-07-07,2026-11-03,2026-11-03,130.73,123.95,100,100,C108,Completed
+P1040,Metro Project 40,Metro,South,2025-11-22,2026-12-23,2027-01-23,78.11,76.95,100,81,C107,Delayed
+P1041,Highway Project 41,Highway,Central,2024-09-03,2025-05-07,,137.6,157.6,74,58,C107,
+P1042,Railway Project 42,Railway,West,,2025-05-29,,65.81,65.91,48,74,NA,Ongoing
+P1043,Highway Project 43,Highway,north ,2025-03-01,2027-09-05,2027-11-04,31.34,30.57,100,100,c110,Completed
+P1044,Water Supply Project 44,Water Supply,East,2023-07-24,2025-05-25,2025-05-25,88.89,89.77,100,100,C107,Completed
+P1045,Bridge Project 45,Bridge,Northeast,2022-03-05,2023-07-11,N/A,114.87,135.75,100,100,C101,Completed
+P1046,Tunnel Project 46,Tunnel,Northeast,2024-01-26,2025-03-12,,141.78,180.05,76,39,C105,Ongoing
+P1047,Power Project 47,Power,West,2023-02-11,2023-12-25,,25.53,25.85,76,56,C112,Ongoing
+P1048,Highway Project 48,Highway,East,2024-05-27,2026-11-30,,119.38,110.01,63,89,C109,Ongoing
+P1049,Tunnel Project 49,Tunnel,Northeast,2024-06-10,2025-08-04,2026-02-01,113.94,128.46,100,72,C103,Delayed
+P1050,Airport Project 50,Airport,East,2022-06-27,2023-12-04,,137.08,135.49,60,30,C104,On Hold
+P1051,Metro Project 51,Metro,West,2023-12-28,2025-05-15,2025-06-04,103.6,101.73,100,100,C104,Completed
+P1052,Railway Project 52,Railway,Northeast,2025-08-15,2027-08-27,,24.01,26.87,70,27,C108,Ongoing
+P1053,Water Supply Project 53,Water Supply,West,2025-02-01,2026-09-02,,54.6,51.88,74,83,C112,Ongoing
+P1054,Metro Project 54,Metro,South,2024-09-18,2026-02-23,2026-09-20,110.65,114.82,100,88,C104,Delayed
+P1055,Airport Project 55,Airport,North,2024-12-29,2026-01-02,2026-01-02,103.18,103.56,100,100,C112,Completed
+P1056,Highway Project 56,Highway,Central,2024-08-19,2026-08-19,,174.07,165.42,71,48,C105,Ongoing
+P1057,Bridge Project 57,Bridge,Central,2025-11-06,2026-08-27,2026-09-16,22.65,25.05,100,100,C111,Completed
+P1058,Railway Project 58,Railway,Central,2024-07-11,2026-06-04,2026-08-03,60.53,78.73,100,100,C107,Completed
+P1059,Railway Project 59,Railway, Northeast,2023-06-26,2025-12-28,2026-01-07,37.9,39.81,100,100,C104,delay
+P1060,Airport Project 60,Airport,North, 2023-08-14,2025-01-24,2025-06-04,126.23,142.49,100,59,C104,Delayed
+P1061,,Railway,West,2025-01-20,2026-05-05,,150.18,160.18,76,59,C102,Ongoing
+P1062,Airport Project 62,Airport,West,2024-08-17,2027-03-20,2027-05-19,170.14,166.75,100,100,C102,Completed
+P1063,Power Project 63,Power,Northeast,2025-05-21,2026-09-29,2026-10-09,173.45,232.54,100,100,C106,Completed
+P1064,Airport Project 64,Airport,Central,2022-12-25,2024-12-15,,165.56,155.92,45,81,C101,Ongoing
+P1065,Tunnel Project 65,Tunnel,East,2023-11-14,2025-06-04,2025-07-30,78.8,87.96,100,76,C107,Delayed
+P1066,Highway Project 66,Highway,West,2023-10-07,2025-02-16,2025-04-17,156.76,159.74,100,100,C102,Completed
+P1067,Highway Project 67,Highway,South,2024-01-11,2026-06-06,2026-11-28,138.72,131.01,100,83,C109,Delayed
+P1068,Tunnel Project 68,Tunnel,North,2025-07-14,2027-11-24,2028-06-07,61.45,67.03,100,65,C101,Delayed
+P1069,Bridge Project 69,Bridge,West,2025-08-19,2026-09-20,,95.53,91.02,75,62,C102,Ongoing
+P1070,Metro Project 70,Metro,West,2025-05-12,2027-06-11,2027-07-30,55.51,56.33,100,59,C104,Delayed
+P1071,Highway Project 71,Highway,East,2023-09-04,2025-12-23,,156.82,172.26,64,87,C112,Ongoing
+P1072,Tunnel Project 72,Tunnel,East,2025-11-29,2027-03-28,,155.23,194.02,64,54,C104,Ongoing
+P1073,Power Project 73,Power,Northeast,2022-11-08,2024-11-24,,94.39,93.52,73,36,C111,At Risk
+P1074,Tunnel Project 74,Tunnel,North,2022-10-23,2024-08-12,,20.87,21.16,45,24,C112,On Hold
+P1075,Water Supply Project 75,Water Supply,Northeast,2024-02-18 ,2025-09-04,,158.05,202.29,54,87,C109,Ongoing
+P1076,Bridge Project 76,Bridge,West,null,2026-06-28,,163.39,151.22,49,63,C102,Ongoing
+P1077,Railway Project 77,Railway,Central,2025-03-05,2027-09-29,2027-11-26,21.58,26.02,100,66,C107,Delayed
+P1078,Metro Project 78,Highway ,South,2025-07-30,2026-12-12,,162.61,158.68,62,26,C108,Ongoing
+P1079,,Airport,Northeast,2025-11-14,2027-03-25,,42.27,46.43,76,63,C107,Ongoing
+P1080,Airport Project 80,Airport,Northeast,2022-02-14,2024-08-16,,105.34,118.45,71,26,C105,Ongoing
+P1081,Airport Project 81,Airport,South,2023-12-23,2025-03-31,,124.58,139.02,80,57,C110,Ongoing
+P1082,Highway Project 82,Highway,East,2022-03-10,2024-06-20,,23.5,22.45,74,41,C108,Ongoing
+P1083,Water Supply Project 83,Water Supply,Central,2023-07-13,2024-08-24,2024-11-22,174.39,166.62,100,100,C109,Completed
+P1084,Bridge Project 84,Bridge,South,2025-10-17,2028-05-04,,23.53,22.76,87,66,C104,At Risk
+P1085,Airport Project 85,null,Central,2025-07-31, 2027-04-12,2027-04-22,89.09,101.95,100,100,C107,Completed
+P1086,Bridge Project 86,Bridge,Northeast,2025-12-06,2027-06-08,,32.04,33.11,74,39,C108,Ongoing
+P1087,Metro Project 87,Metro,West,2024-01-30,2026-08-13,,109.02,124.12,79,73,C108,At Risk
+P1088,Power Project 88,Power,East,2025-11-14,2027-07-26,2027-10-24,171.5,175.39,100,100,C101,Completed
+P1089,Water Supply Project 89,Water Supply,North,2023-07-20,2024-09-26,,23.77,22.47,61,78,C107,At Risk
+P1090,Railway Project 90,Railway,South,2023-02-25,2024-01-01,2024-06-05,108.86,116.84,100,68,C110,Delayed
+P1091,Highway Project 91,Highway,East,2022-09-24,2024-11-25,2024-11-30,26.91,28.61,100,100,C103,Completed
+P1092,WATER SUPPLY PROJECT 92,Water Supply,North,31/13/2024,2024-04-16,2024-06-15,98.49,99.42,100,100,C103,Completed
+P1093,Bridge Project 93,Bridge,West,2023-03-30,2025-08-15,2025-09-04,86.78,89.88,100,100,C109,Completed
+P1094,Bridge Project 94,Bridge,West,2024-06-27,2025-05-08,,112.63,104.51,60,35,C112,On Hold
+P1095,Power Project 95,Power,Central,2023-08-27,2025-07-31,,25.06,28.45,86,80,C109,Ongoing
+P1096,Railway Project 96,Railway,West,2023-04-13,2025-02-04,2025-05-05,76.58,77.16,100,100,C108,Completed
+P1097,Metro Project 97,Metro,Northeast,2022-05-18,2023-04-16,2023-05-24,24.61,27.84,100,82,C108,Delayed
+P1098,Water Supply Project 98,Water Supply,Northeast,2024-04-21,2025-12-14,,137.05,153.78,62,75,C102,On Hold
+P1099,Bridge Project 99,Bridge,Central,2023-03-12,2024-04-13,2024-06-24,68.22,67.32,100,61,C109,Delayed
+P1100,Power Project 100,Power,Central,2025-06-10,2027-12-28,,112.75,112.63,88,28,C110,Ongoing
+P1101,Airport Project 101,Airport,East,2022-01-13,2023-03-14,,121.06,112.39,73,51,C106,On Hold
+P1102,Railway Project 102,Railway,West,2024-07-18,2026-02-27,2026-03-19,132.11,133.86,100,100,C107,Completed
+P1103,Metro Project 103,Metro,Central,2025-10-12,2026-08-31,2026-10-30,91.53,89.06,100,100,C101,Completed
+P1104,Power Project 104,Power,North,2025-10-20,2028-05-11,,15.81,15.3,53,64,C105,Ongoing
+P1105,Metro Project 105,Metro,East,2023-11-03,2024-10-30,2024-12-29,38.22,42.82,100,100,C105,Completed
+P1106,Water Supply Project 106,Water Supply,North, 2022-03-28,2024-02-12,2024-02-12,156.28,154.58,100,100,C107,Completed
+P1107,Bridge Project 107,Bridge,West,2023-10-28,2024-12-16,2025-06-07,151.11,155.7,100,84,C101,Delayed
+P1108,Power Project 108,Power,Central,2024-03-21,2025-09-29,2025-12-09,142.01,131.95,100,76,C102,Delayed
+P1109,Water Supply Project 109,Water Supply,East,2025-08-14,2026-09-09,2026-09-14,52.03,48.95,100,100,C112,Completed
+P1110,Tunnel Project 110,Tunnel,West,2025-04-01,2027-03-01,2027-08-07,117.27,116.68,100,96,C110,Delayed
+P1111,Bridge Project 111,Bridge,West,2025-07-17,2027-01-18,2027-07-03,68.53,63.66,100,58,C108,Delayed
+P1112,Airport Project 112,Airport,North,2022-07-04,2024-11-19,,87.59,86.41,91,74,C111,Ongoing
+P1113,Railway Project 113,RAILWAY,East,2024-09-01,2026-09-24,2026-09-24,85.49,86.97,100,100,C110,Completed
+P1114,Metro Project 114,Metro,North,2025-12-20,2027-11-08,,70.59,76.85,43,40,C104,At Risk
+P1115,Water Supply Project 115,Water Supply,North,2022-07-13,2024-10-01,2024-12-27,132.48,132.32,100,71,C106,Delayed
+P1116,Metro Project 116,Metro,East,2025-09-05, 2028-03-11,,61.25,69.16,93,35,C105,Ongoing
+P1117,Bridge Project 117,Bridge,Northeast,2024-05-17,2026-06-16,,61.12,63.21,48,71,C111,Ongoing
+P1118,Metro Project 118,Metro,North,2022-07-27,2024-08-24,2025-03-16,14.49,13.92,100,88,C105,Delayed
+P1119,Metro Project 119,Metro,South,2025-07-03,2026-08-16,2026-09-11,70.66,81.04,100,81,C112,Delayed
+P1120,NA,Tunnel,South,2023-05-05,2024-11-11,,163.48,154.21,89,80,C109,At Risk
+P1121,Airport Project 121,Airport,West,2024-12-16,2026-10-15,,145.82,156.76,75,45,C109,At Risk
+P1122,Bridge Project 122,Bridge,Northeast,2022-09-13,2024-02-26,2024-03-02,54.92,68.27,100,100,C109,Completed
+P1123,Railway Project 123,Railway,West,2022-02-24,2023-12-20,2024-01-24,48.55,56.58,100,100,C106,Completed
+P1124,Water Supply Project 124,Water Supply,South,2022-03-20,2023-09-04,,127.72,119.63,45,80,C103,At Risk
+P1125,Highway Project 125,NA,East,2022-11-03,2025-01-12,,27.12,25.89,90,74, C104,At Risk
+P1126,Tunnel Project 126,Tunnel,North,2024-10-20,2027-02-18,,106.91,107.58,76,90,C102,Ongoing
+P1127,Power Project 127,power,South,2025-09-30,2026-08-23,,19.64,21.62,64,71,C111,Ongoing
+P1128,Tunnel Project 128,Tunnel,North,2024-03-03,2025-11-15,2025-11-15,69.42,64.43,100,100,C111,Completed
+P1129,Water Supply Project 129,Water Supply,South,2023-12-23,2026-03-01,2026-03-06,150.83,151.16,100,100,C101,Completed
+P1130,Metro Project 130,Metro,North,2024-07-26,2025-04-29,2025-04-29,144.07,147.86,100,100,C112,Completed
+P1131,Tunnel Project 131,Tunnel,East,2025-08-17,2026-10-26,2026-10-26,156.92,166.72,100,100,C101,Completed
+P1132,Tunnel Project 132,Tunnel,West,2023-01-18,2025-02-04,2025-05-24,53.88,66.91,100,88,C106,Delayed
+P1133,Metro Project 133,Metro,Central,2023-10-20,2024-09-29,2024-10-19,60.72,60.25,100,100,C105,Completed
+P1134,Highway Project 134,Highway,Northeast,2025-06-13,2027-04-29,2027-04-29,20.91,22.72,100,100,C106,Completed
+P1135,Highway Project 135,Highway,South,2025-10-20,2027-09-08,2027-09-08,48.59,48.46,100,100,C110,Completed
+P1136,Metro Project 136,Metro,Northeast,2024-01-30,2025-10-11,,106.71,104.95,47,34,C108,Ongoing
+P1137,Highway Project 137,Highway,Northeast,2024-10-19,2026-11-28,,53.03,50.44,71,40,C103,NA
+P1138,Railway Project 138,RAILWAY,North,2022-06-01,2024-05-03,null,179.53,205.88,100,100,C103,Completed
+P1139,Bridge Project 139,Bridge,Central,2023-08-18,2025-02-15,,130.04,130.56,52,60,C109,On Hold
+P1140,Metro Project 140,Metro,South,2022-02-23,2023-10-25,,88.39,91.75,65,72,C108,Ongoing
+P1141,Tunnel Project 141,Tunnel,Central,2024-04-18,2026-07-25,2026-08-29,118.48,132.46,100,100,C107,Completed
+P1142,Metro Project 142,Metro,South,2024-10-26,2025-08-18,2026-01-12,60.31,72.54,100,64,C107,Delayed
+P1143,Airport Project 143,Airport,North,2023-02-07,2025-07-16,,29.53,28.24,77,55,C105,At Risk
+P1144,Metro Project 144,Metro,South,2025-07-02,2027-11-08,2027-11-08,149.94,158.12,100,100,C111,Completed
+P1145,Railway Project 145,Railway, Central,2025-06-19,2027-11-30,2027-12-20,118.41,113.23,100,100,C107,Completed
+P1146,Tunnel Project 146,Tunnel,North,2022-05-03,2023-06-08,,87.88,84.44,95,86,C112,Ongoing
+P1147,Water Supply Project 147,Water Supply,West ,2024-01-29,2026-03-06,,49.58,46.34,64,65,C103,Ongoing
+P1148,Power Project 148,Power,South,2023-11-02,2026-02-10,2026-04-14,93.7,91.99,100,65,C103,Delayed 
+P1149,Power Project 149,Power,Central,2023-05-09,2024-08-11,,16.69,16.35,74,31,C108,Ongoing
+P1150,Highway Project 150,Highway,North,2022-10-02,2024-02-24,2024-09-21,70.94,78.53,100,80,C107,Delayed
+ P1151,Bridge Project 151,Bridge,West,2024-07-11,2026-09-22,2026-09-22,30.13,32.76,100,100,C109,Completed
+P1152,Water Supply Project 152,Water Supply,South,2025-05-18,2027-06-18,,15.79,14.79,78,30,C104,Ongoing
+P1153,Metro Project 153,Metro,East,2023-10-15,2024-11-24,,110.12,121.24,70,63,C110,Ongoing
+P1154, Highway Project 154,Highway,East,2025-10-11,2026-09-28,,145.04,146.06,81,59,C106,At Risk
+P1155,Railway Project 155,Railway,Northeast,2025-04-10,2027-04-11,2027-06-10,33.42,33.48,100,100,C101,Completed
+P1156,Highway Project 156,Highway,West,2024-05-07,2025-06-06,N/A,78.58,89.74,43,51,C106,Ongoing
+P1157,Metro Project 157,Metro,Central,2025-02-22,2026-09-17 ,,98.38,94.21,62,81,C104,At Risk
+P1158,Airport Project 158,Airport,Central,2023-01-29,2024-06-04,2024-06-24,46.68,48.4,100,100,C108,Completed
+P1159,Tunnel Project 159,Tunnel,East,2023-12-16,2026-03-08,,57.5,56.86,62,55,C108,
+P1160,Metro Project 160,Metro,East,2023-08-13,2024-06-28,2024-09-26,120.83,122.0,100,100,C101,Completed
+P1161,Airport Project 161,Airport,South,2025-06-14,2027-10-02,2027-10-02,123.21,121.2,100,100,C102,Completed
+P1162,Tunnel Project 162,Tunnel,North,2022-10-09,2023-06-11,,77.99,80.5,58,40,C111,At Risk
+P1163,Water Supply Project 163,Water Supply,East,2022-05-02,2023-03-29,2023-06-11,135.05,138.03,100,89,C111,Delayed
+,Metro Project 164,Metro,North,2024-10-11,2025-12-15,,158.8,187.45,58,57,C107,At Risk
+P1165,Tunnel Project 165,Tunnel,Northeast,2024-12-09,2026-12-24,,154.38,150.7,69,23,C109,On Hold
+P1166,Airport Project 166,Airport,Northeast,2022-01-29,2023-09-06,2024-02-13,38.19,39.06,100,67,C103,Delayed
+P1167,Bridge Project 167,Bridge,West,2022-07-15,2023-09-17,,63.66,68.5,61,81,C111,At Risk
+P1168,Airport Project 168,Airport,Central,2025-03-19,2025-11-25,2025-12-30,127.16,117.94,100,100,C112,Completed
+P1169,Airport Project 169,Airport,Northeast, 2025-08-01,2027-01-25,,45.69,48.67,66,53,C102,Ongoing
+P1170,Tunnel Project 170,Tunnel,Central,2023-03-24,2024-07-29,2025-01-12 ,98.39,96.75,100,60,,Delayed
+P1171,Railway Project 171,Railway,Central,2022-11-03,2023-12-16,2024-03-15,27.99,26.44,100,100,C109,Completed
+P1172,Highway Project 172,Highway,West,2024-11-17,2026-09-13,,104.11,104.19,40,32,C103,Ongoing
+P1173,Railway Project 173,Railway,Central,2022-04-03,N/A,2024-02-05,101.08,93.72,100,100,C102,Completed
+P1174,Airport Project 174,Airport,West,2022-10-05,2025-03-19,,72.41,74.36,45,73,C103,At Risk
+P1175,Metro Project 175,Metro,Northeast,2022-08-31,2023-10-27,,98.96,99.69,59,70,C106,At Risk
+P1176,Tunnel Project 176,Tunnel,Northeast,2025-01-20,2026-11-25,,50.57,54.49,47,54,C112,Ongoing
+P1177,Highway Project 177,Highway,Northeast,2025-06-13,2026-02-24,2026-02-24,25.35,23.42,100,100,C107,Completed
+P1178,Highway Project 178,Highway,west,2023-04-25,2025-06-25,2025-06-25,32.1,34.46,100,100,C108,Completed
+P1179,Water Supply Project 179,Water Supply,South,2022-10-21,2025-04-24,,59.69,79.22,80,77,C105,Ongoing
+P1180,Power Project 180,Power,Central,2022-04-07,2023-11-20,,143.16,137.18,88,68,C108,At Risk
+P1181,Tunnel Project 181,Tunnel,South,2023-09-08,2024-09-29,2024-10-28,78.98,76.61,100,90,C104,Delayed
+NA,Water Supply Project 182,Water Supply,Northeast,2024-07-10,2026-03-21,2026-03-31,16.86,16.27,100,100,C102,Completed
+P1183,Railway Project 183,Railway,West,2023-11-13,2025-05-16,,44.43,49.95,55,21,C104,At Risk
+P1184,Railway Project 184,Railway,West,2025-02-04,2026-08-27,2026-12-17,99.79,96.11,100,84,C104,Delayed
+P1185,Bridge Project 185,Bridge,Northeast,2023-10-18,2025-01-08,,15.86,17.83,77,77,C108, Ongoing
+P1186,Power Project 186,Power,East,2023-02-06,2024-09-05,2024-09-15,93.88,105.0,100,100,C103,Completed
+P1187,Tunnel Project 187,Tunnel,West,2023-12-23,2025-02-08,2025-05-09,39.66,40.72,100,100,C103,Completed
+P1188,Bridge Project 188,Bridge,Northeast,2022-01-14,2023-11-07,2023-11-17,19.69,18.47,100,100,C101,Completed
+P1189,Tunnel Project 189,Tunnel,Northeast,2022-02-02,2022-10-06,,10.04,9.87,92,77,C108,Ongoing
+P1190,Power Project 190,Power,South,2022-07-17,2024-08-31,2024-09-10,114.6,108.9,100,100,C102,Completed
+P1191,Power Project 191,Power,West,2023-05-14,2024-08-27,2024-08-27,120.44,123.21,100,100,C110,Completed
+P1192,Tunnel Project 192,Tunnel,North,2022-01-20,2023-03-11,2023-05-10,118.92,136.49,100,100, C111,Completed
+P1193,Highway Project 193,Highway,South,2025-11-18,2028-02-16,,166.96,179.99,51,30,C104,Ongoing
+P1194,Water Supply Project 194,Water Supply,North,2025-04-17,2026-05-09,2026-11-22,167.77,185.62,100,80,C104,Delayed
+P1195,Water Supply Project 195,Water Supply,West,2022-10-14,2025-05-16,2025-10-06,17.24,19.55,100,77,C112,Delayed
+P1196,Power Project 196,Power,East,2025-07-22,2026-12-23,2027-05-02,47.24,51.38,100,86,C101,Delayed
+p1197,Power Project 197,Power,North,2023-08-28,2025-01-01,2025-02-06,34.53,34.72,100,72,C110,Delayed
+P1198,Bridge Project 198,Bridge,North,2023-09-24,2025-08-19,,25.58,23.8,46,59,C101,Ongoing
+P1199,Highway Project 199,Highway,North,2025-02-09,2026-01-10,,156.56,170.87,75,66,C106,Ongoing
+P1200,Railway Project 200,Railway,CENTRAL,2022-12-14,2025-07-12,,54.25,51.66,59,42,C109,Ongoing
+P1201,Tunnel Project 201,Tunnel,North,2023-05-31,2024-10-04,2025-02-22,114.07,111.21,100,93,C106,Delayed
+P1202,Power Project 202,Power,East,2023-11-17,2025-09-27,2026-03-27,31.41,30.11,100,93,C108,Delayed
+P1203,Power Project 203,Power ,East,2025-11-24,2028-04-30,,64.05,78.74,52,56,C105,Ongoing
+P1204,Metro Project 204,Metro,Northeast,2022-02-25,2024-02-07,,83.41,93.36,66,46,C109,At Risk
+P1205,Tunnel Project 205,Tunnel,South,2023-09-13,2025-01-12,2025-01-17,131.02,132.94,100,100,C111,Completed
+P1206,Power Project 206,Power,Central,2025-11-17,2027-09-16,,128.68,130.93,55,71,C109,Ongoing
+P1207,Water Supply Project 207,Water Supply,South,2025-06-08,2026-03-20,,174.29,167.28,54,76,C111,Ongoing
+P1208,Railway Project 208,Railway,West,2024-03-12,2026-02-24,2026-08-08,33.93,41.26,100,87,C106,Delayed
+P1209,Bridge Project 209,Bridge ,North,2022-10-18,2024-06-05,2024-09-03,142.89,155.01,100,100,C112,Completed
+P1210,Tunnel Project 210,Tunnel,East,2023-09-07,2024-06-18,2024-08-01,154.06,183.52,100,56,C102,Delayed
+P1211,Railway Project 211,Railway,Central,N/A,2026-03-14,2026-05-13,172.86,188.5,100,100,C103,Completed
+P1212,Power Project 212,Power,West,2025-06-11,2026-08-27,,74.88,80.16,44,79,C101,Ongoing
+P1213,Bridge Project 213,Bridge,Central,2024-01-20,2025-08-15,2025-08-15,53.12,58.58,100,100,C103,Completed
+P1214,Power Project 214,Power,Central,2023-12-14,2025-08-05,2026-01-25,147.96,148.66,100,66,C102,Delayed
+P1215,Metro Project 215,Metro,East,2023-05-04,2024-11-06,2024-12-11,127.27,124.89,100,100,C102,Completed
+P1216,metro project 216,Metro,West,2025-01-05,2027-08-13,,103.44,101.24,43,42,C111, At Risk
+P1217,Water Supply Project 217,Water Supply,North,2022-10-07,2023-12-20,2024-05-26,120.33,116.61,100,87,C108,Delayed
+P1218,Metro Project 218,Metro,NA,2022-03-05,2023-06-13,2023-07-03,46.67,52.65,100,100,C110,Completed
+P1219,Tunnel Project 219,Tunnel,Central,2022-08-20,2024-11-23,2024-12-28,101.23,102.32,100,100,C109,Completed
+P1220,Power Project 220,Power,North,2025-08-31,,2027-01-06,85.35,106.13,100,100,C112,Completed
+P1221,Railway Project 221,Railway,South,2025-04-19,2027-11-20,,36.55,34.24,62,79,C112,Ongoing
+P1222,Airport Project 222,Airport,CENTRAL,2022-12-11,2024-07-04,,57.77,65.62,46,57,C109,At Risk
+P1223,Metro Project 223,Metro,West,2023-07-22,2026-01-18,2026-01-23,50.94,57.71,100,100,,Completed
+P1224,Tunnel Project 224,Tunnel,South,2025-07-19,2026-12-16,,85.74,85.4,57,73,C110,ongoing
+P1225,Water Supply Project 225,Water Supply,West,2023-11-02,2026-02-14,2026-02-14,133.72,130.38,100,100,C108,Completed
+P1226,Power Project 226,Power,South,2023-03-10,2025-03-25 ,2025-04-14,66.09,65.39,100,100,C107,Completed
+P1227,Highway Project 227,Highway,North,2025-07-06,2027-06-16,2027-06-21,83.9,96.13,100,100,C102,Completed
+P1228,Metro Project 228,Metro,Northeast,2022-11-22,,2024-05-30,51.07,49.26,100,100,C105,Completed
+P1229,Airport Project 229,Airport,Northeast,2023-04-25,2025-03-04,2025-09-15,8.19,8.71,100,61,C112,Delayed
+P1230,Highway Project 230,Highway,North,2023-12-05,2024-12-02,,127.37,136.65,46,74,C112,At Risk
+P1231,Water Supply Project 231,Water Supply,East,2022-10-08,2024-06-30,2025-01-23,118.35,125.08,100,63,C105,Delayed
+P1232,Metro Project 232,Metro,West,2023-03-13,2025-08-12,2025-12-10,126.09,133.49,100,94,C106,Delayed
+P1233, Power Project 233,POWER,East,2023-10-07,2024-10-24,2024-10-24,50.68,61.53,100,100,C107,Completed
+,Highway Project 234,,Northeast,2023-02-25,2025-04-05,,136.63,181.8,71,49,C105,Ongoing
+P1235,Power Project 235,Power,North,2024-10-20,2027-04-01,,177.74,188.97,63,26,C104,Ongoing
+P1236,Metro Project 236,Metro,West,2022-02-04,2024-05-25,2024-06-14,45.11,46.5,100,100,C102,Completed
+P1237,Power Project 237,Power,West,2024-04-03,2025-02-21,,55.72,61.35,74,44,C112,Ongoing
+P1238,Water Supply Project 238,Water Supply,West,2025-07-23,2028-01-14,2028-02-14,128.17,129.14,100,74,C110,Delayed
+P1239,Power Project 239,Power,North,2025-06-07,2027-10-18,2027-10-23,28.54,33.99,100,100,C108,Completed
+P1240,Airport Project 240,Airport,South,2022-09-17,2024-02-14,2024-03-30,65.62,79.4,100,56,C106,Delayed
+P1241,BRIDGE PROJECT 241,Bridge,West,2024-11-12,2026-07-13,2026-07-18,71.24,75.54,100,100,C108,Completed
+P1242,Railway Project 242,Railway,Northeast,2022-01-06,2022-10-18,,50.06,59.5,94,15,C109,On Hold
+P1243,Highway Project 243,Highway,Central,2025-09-04,2027-07-05,2027-07-15,79.6,80.11,100,100,C112,Completed
+P1244,Highway Project 244,Highway,South,2024-11-22,2025-09-05,,158.84,162.64,69,28,C104,At Risk
+P1245,Highway Project 245,Highway,East,2023-08-21,2025-11-15,2026-06-07,49.72,57.04,100,94,C104,Delayed
+P1246,Railway Project 246,Railway,South,2024-04-19,2025-01-08,2025-02-12,117.38,123.36,100,100,C101,Completed
+P1247,Power Project 247,Power,Northeast,2023-09-22,2024-09-02,2024-09-12,80.21,83.04,100,100,C112,Completed
+P1248,Highway Project 248,Highway,South,2024-04-25, 2026-01-06,,107.89,120.16,43,35,C109,Ongoing
+P1249,Power Project 249,Power,Northeast,2023-04-30,2024-10-19,2024-11-23,167.28,161.79,100,100,C103,Completed
+P1250,Railway Project 250,Railway,North,2022-10-06,2025-01-21,2025-01-21,36.27,45.77,100,100,C104,Completed
+P1099,Bridge Project 99,Bridge,Central,2023-03-12,2024-04-13,2024-06-24,68.22,67.32,100,61,C109,Delayed
+P1122,Bridge Project 122,Bridge,Northeast,2022-09-13,2024-02-26,2024-03-02,54.92,68.27,100,100,C109,Completed

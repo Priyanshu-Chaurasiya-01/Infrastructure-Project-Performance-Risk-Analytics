@@ -1,0 +1,1377 @@
+Milestone_ID,Project_ID,Milestone_Name,Planned_Date,Actual_Date,Status
+M5001,P1001,Final Handover,2026-02-02,2026-04-03,Completed
+M5002,P1001,Foundation,2026-03-26,2026-04-30,Completed
+M5003,P1001,Structural Work,2026-05-17,2026-07-16,Completed
+M5004,P1001,Safety Inspection,2026-07-08,2026-08-12,Completed
+M5005,P1001,Land Acquisition,2026-08-29,2026-09-08,Completed
+M5006,P1002,Major Construction,2023-02-26,,Not Started
+M5007,P1002,Safety Inspection,2023-05-25,2023-06-04,Completed
+M5008,P1002,Design Approval,2023-08-22,,Pending
+M5009,P1002,Land Acquisition,2023-11-18,2023-11-18,Completed
+M5010,P1002,Structural Work,2024-02-15,2024-04-15,Delayed
+M5011,P1002,Testing,2024-05-13,2024-06-17,Completed
+M5012,P1003,Design Approval,2023-11-11,2024-01-10,Completed
+M5013,P1003,Land Acquisition,2024-03-18,,Completed
+M5014,P1003,Safety Inspection,2024-07-24,2024-08-13,Delayed
+M5015,P1003,Final Handover,2024-11-29,,In Progress
+M5016,P1003,Structural Work,2025-04-06,2025-04-16,Delayed
+M5017,P1003,Testing,2025-08-12,2025-08-14,Completed
+M5018,P1004,Major Construction,2025-05-26,2025-06-05,Delayed
+M5019,P1004,Structural Work,2025-08-14,2025-08-19,Delayed
+M5020,P1004,Design Approval,2025-11-02,2025-11-04,Completed
+M5021,P1004,Land Acquisition,2026-01-22,2026-03-23,Completed
+M5022,P1004,Testing,2026-04-12,2026-06-11,Completed
+M5023,P1004,Foundation,2026-07-01,2026-08-30,Delayed
+M5024,P1005,Testing,2024-09-23,,Pending
+M5025,P1005,,2025-01-21,,In Progress
+M5026,P1005,Foundation,2025-05-20,2025-05-30,Completed
+M5027,P1005,Design Approval,2025-09-17,,Pending
+M5028,P1005,Land Acquisition,2026-01-14,,Pending
+M5029,P1005,Major Construction,2026-05-14,2026-05-16,Completed
+M5030,P1006,Structural Work,2025-07-06,,Pending
+M5031,P1006,Major Construction,2025-09-05,2025-09-25,Completed
+M5032,P1006,Final Handover,2025-11-05,,Not Started
+M5033,P1006,Foundation,2026-01-05,2026-01-25,Completed
+M5034,P1007,Foundation,2022-11-02,2022-11-02,Completed
+M5035,P1007,Major Construction,2023-01-18,2023-01-20,Completed
+M5036,P1007,Design Approval,2023-04-05,2023-04-05,Completed
+M5037,P1007,Structural Work,2023-06-21,,Pending
+M5038,P1007,Final Handover,2023-09-06,,In Progress
+M5039,P1007,Land Acquisition,2023-11-22,,In Progress
+M5040,P1008,Land Acquisition,,,Not Started
+M5041,P1008,Design Approval,2026-05-31,,Pending
+M5042,P1008,Major Construction,2026-10-30,2026-12-04,Delayed
+M5043,P1008,Safety Inspection,2027-03-31,,In Progress
+M5044,P1009,Testing,2022-11-13,2022-12-18,Completed
+M5045,P1009,Design Approval,2023-02-08,2023-02-28,Completed
+M5046,P1009,Safety Inspection,2023-05-06,,
+M5047,P1009,Structural Work,2023-08-02,2023-09-06,Completed
+M5048,P1009,Major Construction,2023-10-28,,Not Started
+M5049,P1009,Foundation,2024-01-23,2024-03-23,Completed
+M5050,P1010,Testing,2022-11-15,,Pending
+M5051,P1010,Safety Inspection,2023-01-16,2023-01-16,Completed
+M5052,P1010,Major Construction,2023-03-19,2023-03-24,Completed
+M5053,P1010,Design Approval,2023-05-20,2023-06-15,Delayed
+M5054,P1010,Land Acquisition,2023-07-21,,Not Started
+M5055,P1011,Final Handover,2024-08-07,2024-08-12,Completed
+M5056,P1011,Land Acquisition,2024-12-17,,Pending
+M5057,P1011,Foundation,2025-04-29,2025-06-03,Delayed
+M5058,P1011,Design Approval,2025-09-08,,In Progress
+M5059,P1011,Major Construction,2026-01-19,2026-01-29,Completed
+M5060,P1011,Testing,2026-05-31,2026-05-31,Delayed
+M5061,P1012,Foundation,2022-03-08,2022-03-13,Completed
+M5062,P1012,Structural Work,2022-04-29,2022-05-01,Delayed
+M5063,P1012,Land Acquisition,2022-06-20,2022-06-20,Completed
+M5064,P1012,Testing,2022-08-11,2022-08-31,Delayed
+M5065,P1012,Final Handover,2022-10-02,2022-12-11,Delayed
+M5066,P1013,Safety Inspection,2023-02-12,2023-02-14,Delayed
+M5067,P1013,Design Approval,2023-06-29,,Not Started
+M5068,P1013,Land Acquisition,2023-11-14,,Not Started
+M5069,P1013,Testing,2024-03-30,2024-04-04,Completed
+M5070,P1013,Foundation,2024-08-14,2024-08-14,Delayed
+M5071,P1014,Foundation,2022-08-15,,Not Started
+M5072,P1014,Land Acquisition,2022-12-09,2023-01-18,Delayed
+M5073,P1014,Final Handover,2023-04-04,2023-04-06,Completed
+M5074,P1014,Safety Inspection,2023-07-29,2023-08-23,Delayed
+M5075,P1014,Structural Work,2023-11-22,2023-11-22,Completed
+M5076,P1014,Major Construction,2024-03-17,2024-05-31,Delayed
+M5077,P1014,Design Approval,2024-07-11,2024-08-15,Completed
+M5078,P1015,Safety Inspection,2023-04-26,2023-05-06,Completed
+M5079,P1015,Design Approval,2023-08-09,2023-08-19,Completed
+M5080,P1015,Foundation,2023-11-22,2023-11-27,Completed
+M5081,P1015,Structural Work,2024-03-06,,Completed
+M5082,P1016,Testing,2023-04-17,,Not Started
+M5083,P1016,Safety Inspection,2023-08-26,2023-08-26,Delayed
+M5084,P1016,Major Construction,2024-01-04,,In Progress
+M5085,P1016,Structural Work,2024-05-14,,Not Started
+M5086,P1017,Structural Work,2026-03-08,2026-03-28,Completed
+M5087,P1017,Final Handover,2026-06-17,2026-08-16,Delayed
+M5088,P1017,Foundation,2026-09-26,2026-09-28,Completed
+M5089,P1017,Land Acquisition,2027-01-05,,Pending
+M5090,P1017,Safety Inspection,2027-04-16,2027-04-16,
+M5091,P1017,Testing,2027-07-26,2027-09-24,Completed
+M5092,P1017,Major Construction,2027-11-04,,In Progress
+M5093,P1018,Design Approval,2025-07-24,2025-07-29,Delayed
+M5094,P1018,Land Acquisition,2025-11-05,,Pending
+M5095,P1018,Structural Work,2026-02-17,,Not Started
+M5096,P1018,Major Construction,2026-06-01,,In Progress
+M5097,P1018,Testing,2026-09-13,2026-09-15,Completed
+M5098,P1018,Foundation,2026-12-26,,Not Started
+M5099,P1019,Design Approval,2025-06-18,,In Progress
+M5100,P1019,Major Construction,2025-09-24,,In Progress
+M5101,P1019,Land Acquisition,2026-01-01,2026-01-11,Delayed
+M5102,P1019,Foundation,2026-04-09,2026-04-14,Delayed
+M5103,P1020,,2024-05-22,2024-06-01,Completed
+M5104,P1020,Land Acquisition,2024-07-23,,Pending
+M5105,P1020,Structural Work,2024-09-24,2024-11-23,Completed
+M5106,P1020,Foundation,2024-11-25,2025-01-24,
+M5107,P1020,Design Approval,2025-01-26,,Not Started
+M5108,P1021,Structural Work,2023-08-11,2023-08-16,Completed
+M5109,P1021,Design Approval,2024-01-10,2024-01-30,Completed
+M5110,P1021,Foundation,2024-06-09,2024-06-11,
+M5111,P1021,Final Handover,2024-11-08,2025-01-07,Completed
+M5112,P1022,Foundation,2025-02-06,2025-04-07,Completed
+M5113,P1022,Land Acquisition,2025-03-28,2025-05-27,Completed
+M5114,P1022,Final Handover,2025-05-16,,Pending
+M5115,P1022,Major Construction,2025-07-05,2025-07-05,Completed
+M5116,P1023,Major Construction,2025-08-06,2025-09-05,Delayed
+M5117,P1023,Foundation,2025-10-21,2025-12-05,Delayed
+M5118,P1023,Structural Work,2026-01-05,2026-01-25,Delayed
+M5119,P1023,Final Handover,2026-03-22,2026-05-21,Delayed
+M5120,P1023,Testing,,2026-08-04,Delayed
+M5121,P1024,Foundation,,2022-04-03,Completed
+M5122,P1024,,2022-06-23,,Not Started
+M5123,P1024,Final Handover,2022-09-14,2022-09-16,Completed
+M5124,P1024,Land Acquisition,2022-12-06,2023-02-24,Delayed
+M5125,P1024,Testing,2023-02-27,2023-04-28,Completed
+M5126,P1024,Major Construction,2023-05-21,2023-05-23,Completed
+M5127,P1025,Structural Work,2024-07-12,,Not Started
+M5128,P1025,Foundation,2024-12-26,,In Progress
+M5129,P1025,Major Construction,2025-06-11,,In Progress
+M5130,P1025,Safety Inspection,2025-11-25,2025-11-27,Delayed
+M5131,P1026,Safety Inspection,2025-11-15,,Not Started
+M5132,P1026,Major Construction,2026-01-03,2026-02-07,Completed
+M5133,P1026,Land Acquisition,2026-02-21,2026-02-26,Completed
+M5134,P1026,Testing,2026-04-12,,In Progress
+M5135,P1026,Foundation,2026-05-31,2026-07-05,Completed
+M5136,P1026,Structural Work,2026-07-19,2026-08-08,Completed
+M5137,P1027,Safety Inspection,2023-04-29,2023-07-16,Delayed
+M5138,P1027,Testing,2023-08-23,,In Progress
+M5139,P1027,Foundation,2023-12-17,,In Progress
+M5140,P1027,Design Approval,2024-04-11,2024-04-11,Completed
+M5141,P1028,Structural Work,2024-03-05,2024-03-07,Completed
+M5142,P1028,Testing,2024-05-23,2024-06-02,Completed
+M5143,P1028,Major Construction,2024-08-10,2024-09-17,Delayed
+M5144,P1028,Final Handover,2024-10-28,,In Progress
+M5145,P1028,Foundation,2025-01-15,2025-02-27,Delayed
+M5146,P1028,Safety Inspection,2025-04-04,2025-05-09,Completed
+M5147,P1029,Testing,2025-01-29,2025-03-30,Completed
+M5148,P1029,Foundation,2025-04-20,2025-04-22,Completed
+M5149,P1029,Safety Inspection,2025-07-10,,
+M5150,P1029,Major Construction,2025-09-29,2025-10-09,Completed
+M5151,P1029,Final Handover,2025-12-19,,Pending
+M5152,P1029,Design Approval,2026-03-10,2026-03-12,Completed
+M5153,P1029,Land Acquisition,2026-05-30,2026-06-19,Delayed
+M5154,P1030,Testing,2025-08-28,2025-10-02,Completed
+M5155,P1030,Safety Inspection,2025-12-20,2025-12-20,Completed
+M5156,P1030,Final Handover,2026-04-13,2026-04-15,Completed
+M5157,P1030,Design Approval,2026-08-05,2026-08-07,Delayed
+M5158,P1030,Land Acquisition,2026-11-27,2027-01-26,
+M5159,P1031,Safety Inspection,2022-05-12,,In Progress
+M5160,P1031,Testing,2022-09-18,2022-10-08,Completed
+M5161,P1031,Structural Work,2023-01-25,,Pending
+M5162,P1031,Final Handover,2023-06-02,,Not Started
+M5163,P1031,Major Construction,2023-10-09,2023-11-13,Completed
+M5164,P1032,Structural Work,2025-02-04,2025-02-24,Completed
+M5165,P1032,Testing,2025-05-08,2025-07-07,Completed
+M5166,P1032,Foundation,2025-08-09,2025-08-14,Delayed
+M5167,P1032,Safety Inspection,2025-11-09,2026-01-06,Delayed
+M5168,P1032,Design Approval,,2026-03-17,Completed
+M5169,P1033,Final Handover,2023-12-11,2024-01-15,Completed
+M5170,P1033,Foundation,2024-03-14,2024-03-14,Completed
+M5171,P1033,Design Approval,2024-06-15,2024-07-20,Completed
+M5172,P1033,Testing,2024-09-17,2024-10-22,Completed
+M5173,P1033,Structural Work,2024-12-19,,Not Started
+M5174,P1033,Land Acquisition,2025-03-23,2025-03-23,Completed
+M5175,P1034,Land Acquisition,2025-04-05,2025-04-05,Completed
+M5176,P1034,Testing,2025-08-28,2025-08-30,
+M5177,P1034,Final Handover,2026-01-20,2026-02-05,Delayed
+M5178,P1034,Structural Work,2026-06-14,2026-07-19,Completed
+M5179,P1035,Foundation,2023-06-08,2023-06-08,Delayed
+M5180,P1035,Structural Work,2023-08-10,2023-08-12,Completed
+M5181,P1035,Land Acquisition,2023-10-12,2023-10-14,Completed
+M5182,P1035,Major Construction,2023-12-15,2023-12-20,
+M5183,P1035,Testing,2024-02-16,2024-02-26,Completed
+M5184,P1035,Design Approval,2024-04-19,2024-04-29,Completed
+M5185,P1036,Land Acquisition,2024-06-29,,Not Started
+M5186,P1036,Final Handover,2024-10-31,2024-10-31,Completed
+M5187,P1036,Testing,2025-03-05,,Pending
+M5188,P1036,Safety Inspection,2025-07-07,,Not Started
+M5189,P1036,Major Construction,2025-11-08,2025-11-13,Completed
+M5190,P1037,Land Acquisition,2025-02-23,2025-02-23,Completed
+M5191,P1037,Final Handover,2025-05-23,2025-05-23,Completed
+M5192,P1037,Design Approval,2025-08-21,2025-09-25,Completed
+M5193,P1037,Safety Inspection,2025-11-18,2025-11-28,Completed
+M5194,P1037,Foundation,2026-02-15,2026-02-15,Completed
+M5195,P1037,Testing,2026-05-16,2026-05-18,Completed
+M5196,P1037,Structural Work,2026-08-13,2026-08-23,Completed
+M5197,P1038,Final Handover,2025-01-22,,Pending
+M5198,P1038,Safety Inspection,2025-04-17,2025-05-07,Delayed
+M5199,P1038,Structural Work,2025-07-10,,Not Started
+M5200,P1038,Design Approval,2025-10-03,2025-10-23,Delayed
+M5201,P1038,Land Acquisition,2025-12-26,2026-01-13,Delayed
+M5202,P1038,Testing,2026-03-21,,Not Started
+M5203,P1038,Foundation,2026-06-13,,Pending
+M5204,P1038,Final Handover,2025-09-05,2025-09-05,Completed
+M5205,P1039,Land Acquisition,2025-11-05,2025-12-10,Completed
+M5206,P1039,Structural Work,2026-01-04,2026-02-08,Completed
+M5207,P1039,Testing,2026-03-06,2026-04-10,Completed
+M5208,P1039,Safety Inspection,2026-05-05,2026-06-09,Delayed
+M5209,P1039,Major Construction,2026-07-05,2026-09-03,Completed
+M5210,P1039,,2026-09-03,2026-09-05,Delayed
+M5211,P1040,Foundation,,2026-01-12,Delayed
+M5212,P1040,Land Acquisition,2026-03-01,2026-03-03,Completed
+M5213,P1040,Structural Work,2026-04-19,2026-06-18,Delayed
+M5214,P1040,Final Handover,2026-06-08,2026-06-18,Delayed
+M5215,P1040,Design Approval,2026-07-27,2026-08-06,Completed
+M5216,P1040,Testing,2026-09-15,,Completed
+M5217,P1040,Major Construction,2026-11-03,2026-11-18,Delayed
+M5218,P1041,Major Construction,2024-10-22,,In Progress
+M5219,P1041,Final Handover,2024-12-10,,In Progress
+M5220,P1041,Safety Inspection,,,Pending
+M5221,P1041,Design Approval,2025-03-18,,In Progress
+M5222,P1042,Testing,2023-10-06,2023-10-11,Completed
+M5223,P1042,Final Handover,2023-12-31,2024-01-05,Completed
+M5224,P1042,Structural Work,2024-03-26,2024-03-28,Delayed
+M5225,P1042,Land Acquisition,2024-06-20,2024-07-25,Delayed
+M5226,P1042,Major Construction,2024-09-13,2024-10-03,Completed
+M5227,P1042,Foundation,2024-12-08,2025-02-06,Delayed
+M5228,P1042,Safety Inspection,2025-03-04,2025-05-03,Completed
+M5229,P1043,Design Approval,2025-07-10,2025-07-30,Completed
+M5230,P1043,Safety Inspection,2025-11-18,2025-11-18,Completed
+M5231,P1043,Structural Work,2026-03-29,2026-04-08,Delayed
+M5232,P1043,Land Acquisition,2026-08-07,2026-10-06,Completed
+M5233,P1043,Major Construction,2026-12-16,2026-12-18,Completed
+M5234,P1043,Final Handover,2027-04-26,2027-05-31,Completed
+M5235,P1044,Safety Inspection,2023-10-15,2023-10-25,Completed
+M5236,P1044,Major Construction,2024-01-07,2024-01-27,Completed
+M5237,P1044,Testing,2024-03-31,2024-04-20,Completed
+M5238,P1044,Design Approval,2024-06-23,2024-07-13,Completed
+M5239,P1044,Foundation,2024-09-15,2024-10-05,Completed
+M5240,P1044,Final Handover,2024-12-08,2025-01-12,Completed
+M5241,P1044,Structural Work,2025-03-02,2025-04-06,Completed
+M5242,P1045,Design Approval,2022-05-14,2022-06-18,Delayed
+M5243,P1045,Safety Inspection,2022-07-23,2022-09-21,Completed
+M5244,P1045,,2022-10-02,2022-10-12,Completed
+M5245,P1045,Major Construction,2022-12-11,2022-12-11,Delayed
+M5246,P1045,Structural Work,2023-02-20,2023-03-27,Completed
+M5247,P1045,,2023-05-01,2023-06-30,Completed
+M5248,P1046,Major Construction,2024-03-24,2024-05-23,Delayed
+M5249,P1046,Design Approval,2024-05-22,2024-07-21,Completed
+M5250,P1046,Land Acquisition,2024-07-20,,Not Started
+M5251,P1046,Foundation,2024-09-16,2024-10-06,Completed
+M5252,P1046,Safety Inspection,,,Pending
+M5253,P1046,Final Handover,2025-01-12,,In Progress
+M5254,P1047,Testing,2023-03-22,,Not Started
+M5255,P1047,Major Construction,2023-05-01,,Not Started
+M5256,P1047,Land Acquisition,2023-06-09,2023-06-29,Completed
+M5257,P1047,Final Handover,2023-07-19,,Pending
+M5258,P1047,Foundation,2023-08-28,2023-08-30,Completed
+M5259,P1047,Safety Inspection,2023-10-06,2023-10-08,Completed
+M5260,P1047,Design Approval,2023-11-15,2023-11-25,Completed
+M5261,P1048,Foundation,2024-10-05,2024-10-07,Completed
+M5262,P1048,Design Approval,2025-02-13,2025-02-18,Completed
+M5263,P1048,Major Construction,2025-06-24,,Not Started
+M5264,P1048,Final Handover,2025-11-02,,Not Started
+M5265,P1048,Land Acquisition,2026-03-13,2026-05-12,Completed
+M5266,P1048,Safety Inspection,2026-07-22,2026-08-26,Completed
+M5267,P1049,Foundation,2024-08-19,2024-09-08,Delayed
+M5268,P1049,Major Construction,2024-10-28,2024-10-30,Completed
+M5269,P1049,Land Acquisition,2025-01-06,2025-03-04,Delayed
+M5270,P1049,Safety Inspection,2025-03-17,2025-03-19,Delayed
+M5271,P1049,Design Approval,2025-05-26,,Not Started
+M5272,P1050,Design Approval,2022-10-10,2022-11-14,Completed
+M5273,P1050,Testing,2023-01-23,,Not Started
+M5274,P1050,Foundation,2023-05-08,,In Progress
+M5275,P1050,Structural Work,2023-08-21,,Pending
+M5276,P1051,Major Construction,2024-02-29,2024-03-20,Delayed
+M5277,P1051,Final Handover,2024-05-02,2024-05-07,Completed
+M5278,P1051,Testing,2024-07-04,2024-07-04,Completed
+M5279,P1051,Foundation,2024-09-05,2024-11-04,Completed
+M5280,P1051,Land Acquisition,2024-11-07,2024-11-09,Completed
+M5281,P1051,Safety Inspection,2025-01-09,2025-01-19,Completed
+M5282,P1051,Design Approval,2025-03-13,2025-05-12,Delayed
+M5283,P1052,Foundation,2026-01-10,2026-01-10,Completed
+M5284,P1052,Land Acquisition,2026-06-07,2026-06-12,Completed
+M5285,P1052,Structural Work,2026-11-03,,Pending
+M5286,P1052,Final Handover,2027-03-31,,In Progress
+M5287,P1053,Final Handover,2025-04-14,,Not Started
+M5288,P1053,Testing,2025-06-25,2025-07-30,Completed
+M5289,P1053,Structural Work,2025-09-05,,Not Started
+M5290,P1053,Safety Inspection,2025-11-17,2026-01-16,Completed
+M5291,P1053,Foundation,2026-01-28,2026-02-17,Completed
+M5292,P1053,,2026-04-10,2026-05-15,Completed
+M5293,P1053,Design Approval,2026-06-21,,In Progress
+M5294,P1054,Safety Inspection,2024-11-22,2024-12-02,Completed
+M5295,P1054,Structural Work,2025-01-26,,Pending
+M5296,P1054,Testing,2025-04-02,2025-06-01,Completed
+M5297,P1054,Land Acquisition,2025-06-06,,Pending
+M5298,P1054,Final Handover,2025-08-10,2025-09-12,Delayed
+M5299,P1054,Major Construction,2025-10-15,2025-10-15,Delayed
+M5300,P1054,Foundation,2025-12-19,2025-12-19,Completed
+M5301,P1055,Testing,2025-02-28,2025-03-02,Completed
+M5302,P1055,Design Approval,2025-05-01,2025-05-03,Completed
+M5303,P1055,Structural Work,2025-07-01,2025-07-21,Delayed
+M5304,P1055,Major Construction,2025-09-01,2025-09-01,Completed
+M5305,P1055,Safety Inspection,2025-11-01,2025-11-06,Completed
+M5306,P1056,Final Handover,2024-12-18,2025-01-07,Completed
+M5307,P1056,Foundation,2025-04-19,,In Progress
+M5308,P1056,Safety Inspection,2025-08-19,2025-08-24,Completed
+M5309,P1056,Design Approval,2025-12-18,,Pending
+M5310,P1056,Major Construction,2026-04-19,,In Progress
+M5311,P1057,Safety Inspection,2025-12-18,2026-01-22,Delayed
+M5312,P1057,Design Approval,2026-01-29,2026-02-03,Completed
+M5313,P1057,Land Acquisition,2026-03-12,2026-03-17,Delayed
+M5314,P1057,Foundation,2026-04-23,2026-04-28,Completed
+M5315,P1057,Final Handover,2026-06-04,2026-06-04,Completed
+M5316,P1057,Testing,2026-07-16,2026-07-16,Completed
+M5317,P1058,Structural Work,2024-11-03,2025-01-02,Completed
+M5318,P1058,Foundation,2025-02-27,2025-03-19,Delayed
+M5319,P1058,Testing,2025-06-22,2025-06-24,Completed
+M5320,P1058,Land Acquisition,2025-10-16,2025-11-05,Delayed
+M5321,P1058,Major Construction,2026-02-08,2026-02-10,Completed
+M5322,P1059,Structural Work,2023-10-18,2023-11-07,Completed
+M5323,P1059,Safety Inspection,2024-02-10,2024-04-10,Completed
+M5324,P1059,Major Construction,2024-06-03,2024-06-05,Delayed
+M5325,P1059,Foundation,2024-09-26,2024-10-16,Completed
+M5326,P1059,Design Approval,2025-01-18,2025-01-28,Completed
+M5327,P1059,Final Handover,2025-05-13,2025-07-12,Delayed
+M5328,P1059,Land Acquisition,2025-09-04,2025-09-09,Completed
+M5329,P1060,Land Acquisition,2023-11-10,2023-11-20,Completed
+M5330,P1060,Testing,2024-02-06,2024-03-12,Completed
+M5331,P1060,Design Approval,2024-05-04,2024-05-24,Completed
+M5332,P1060,Major Construction,2024-07-31,,In Progress
+M5333,P1060,Foundation,2024-10-27,2024-12-03,Delayed
+M5334,P1061,Safety Inspection,2025-03-19,2025-03-24,Completed
+M5335,P1061,Foundation,2025-05-17,2025-05-27,Completed
+M5336,P1061,Major Construction,2025-07-15,2025-07-17,Delayed
+M5337,P1061,Land Acquisition,2025-09-12,2025-09-12,Completed
+M5338,P1061,Final Handover,2025-11-09,2025-11-11,Completed
+M5339,P1061,Design Approval,2026-01-07,2026-02-11,Completed
+M5340,P1061,Testing,2026-03-07,,In Progress
+M5341,P1062,Design Approval,2024-12-30,2025-02-03,Delayed
+M5342,P1062,Structural Work,2025-05-14,2025-05-14,Completed
+M5343,P1062,Testing,2025-09-26,2025-09-28,
+M5344,P1062,Safety Inspection,2026-02-08,2026-02-08,Completed
+M5345,P1062,Major Construction,2026-06-23,2026-06-28,Completed
+M5346,P1062,Land Acquisition,2026-11-05,2026-11-15,Completed
+M5347,P1063,Design Approval,2025-07-30,2025-09-28,Delayed
+M5348,P1063,Final Handover,2025-10-09,2025-12-08,Completed
+M5349,P1063,Structural Work,2025-12-19,2026-01-08,Completed
+M5350,P1063,Major Construction,2026-02-28,2026-04-04,Completed
+M5351,P1063,Testing,2026-05-10,2026-05-30,Completed
+M5352,P1063,Safety Inspection,2026-07-20,2026-07-30,Completed
+M5353,P1064,Land Acquisition,2023-05-18,,Pending
+M5354,P1064,Design Approval,2023-10-09,,Pending
+M5355,P1064,Major Construction,2024-03-01,2024-03-21,Completed
+M5356,P1064,Testing,2024-07-23,,Not Started
+M5357,P1065,Design Approval,2024-03-06,,Not Started
+M5358,P1065,Structural Work,2024-06-28,,Not Started
+M5359,P1065,Testing,2024-10-19,2024-12-26,Delayed
+M5360,P1065,Final Handover,2025-02-10,2025-02-10,Delayed
+M5361,P1066,Final Handover,2023-12-29,2024-01-03,Delayed
+M5362,P1066,Safety Inspection,2024-03-21,2024-05-20,Completed
+M5363,P1066,Structural Work,2024-06-12,2024-07-02,Delayed
+M5364,P1066,Foundation,2024-09-03,2024-09-03,Completed
+M5365,P1066,Land Acquisition,2024-11-25,2024-11-25,Completed
+M5366,P1067,,2024-04-29,2024-05-19,Completed
+M5367,P1067,Testing,2024-08-17,2024-09-06,Delayed
+M5368,P1067,Foundation,2024-12-04,2025-01-23,Delayed
+M5369,P1067,Final Handover,2025-03-24,,In Progress
+M5370,P1067,Safety Inspection,2025-07-12,2025-09-17,Delayed
+M5371,P1067,Land Acquisition,2025-10-29,2026-01-13,Delayed
+M5372,P1067,Major Construction,2026-02-16,2026-03-08,Delayed
+M5373,P1068,Major Construction,2025-11-14,2025-11-16,Delayed
+M5374,P1068,Final Handover,2026-03-17,2026-04-21,Delayed
+M5375,P1068,Foundation,2026-07-18,2026-08-07,Delayed
+M5376,P1068,Structural Work,2026-11-19,2026-12-10,Delayed
+M5377,P1068,Design Approval,2027-03-22,2027-04-26,Completed
+M5378,P1068,Testing,2027-07-23,,Pending
+M5379,P1069,Safety Inspection,2025-10-07,,Not Started
+M5380,P1069,Land Acquisition,2025-11-26,2025-12-06,Completed
+M5381,P1069,Final Handover,2026-01-14,,Not Started
+M5382,P1069,Foundation,2026-03-05,2026-05-04,Completed
+M5383,P1069,Design Approval,2026-04-24,,In Progress
+M5384,P1069,Structural Work,2026-06-12,2026-08-11,Completed
+M5385,P1069,Testing,2026-08-01,2026-09-30,Completed
+M5386,P1070,Land Acquisition,2025-09-15,2025-09-20,Delayed
+M5387,P1070,Foundation,2026-01-20,2026-01-30,Delayed
+M5388,P1070,Design Approval,2026-05-27,2026-06-12,Delayed
+M5389,P1070,Final Handover,2026-09-30,2026-10-23,Delayed
+M5390,P1070,Testing,2027-02-04,,Not Started
+M5391,P1071,Testing,2024-01-02,,Not Started
+M5392,P1071,Foundation,2024-05-01,2024-05-03,Delayed
+M5393,P1071,Safety Inspection,2024-08-29,2024-09-18,Completed
+M5394,P1071,Design Approval,2024-12-27,2025-01-01,Completed
+M5395,P1071,Major Construction,2025-04-26,,In Progress
+M5396,P1071,Structural Work,2025-08-24,,Not Started
+M5397,P1072,Final Handover,2026-02-06,,In Progress
+M5398,P1072,Structural Work,2026-04-16,,Not Started
+M5399,p1072,Major Construction,2026-06-24,,In Progress
+M5400,P1072,Safety Inspection,2026-09-01,2026-09-01,Delayed
+M5401,P1072,Design Approval,2026-11-09,,Pending
+M5402,P1072,Testing,2027-01-17,,Pending
+M5403,P1073,Safety Inspection,2023-02-22,,Pending
+M5404,P1073,Foundation,2023-06-09,2023-06-19,Completed
+M5405,P1073,Major Construction,2023-09-24,2023-09-26,Delayed
+M5406,P1073,Testing,2024-01-08,2024-01-10,Completed
+M5407,P1073,Land Acquisition,2024-04-24,2024-05-29,
+M5408,P1073,Final Handover,2024-08-09,2024-08-11,Completed
+M5409,P1074,Major Construction,2023-02-09,,In Progress
+M5410,P1074,Design Approval,2023-05-30,2023-05-30,Completed
+M5411,P1074,,2023-09-17,,Not Started
+M5412,P1074,Testing,2024-01-05,,In Progress
+M5413,P1074,Final Handover,2024-04-24,,Not Started
+M5414,P1075,Final Handover,2024-06-09,2024-06-29,Completed
+M5415,P1075,Foundation,2024-09-30,2024-11-29,Completed
+M5416,P1075,Major Construction,2025-01-21,2025-03-22,Completed
+M5417,P1075,Safety Inspection,2025-05-14,2025-07-13,Delayed
+M5418,P1076,Land Acquisition,2025-09-01,,In Progress
+M5419,P1076,Major Construction,2025-10-14,2025-10-14,Completed
+M5420,P1076,Foundation,2025-11-26,,In Progress
+M5421,P1076,Structural Work,2026-01-08,,In Progress
+M5422,P1076,Design Approval,2026-02-19,2026-04-20,Completed
+M5423,P1076,Safety Inspection,2026-04-03,2026-04-08,
+M5424,P1076,Final Handover,2026-05-16,2026-06-05,Completed
+M5425,P1077,Foundation,2025-07-17,2025-09-16,Delayed
+M5426,P1077,Structural Work,2025-11-28,,In Progress
+M5427,P1077,Safety Inspection,2026-04-11,2026-05-01,Completed
+M5428,P1077,Design Approval,2026-08-23,,Not Started
+M5429,P1077,Testing,2027-01-04,2027-01-04,Completed
+M5430,P1077,Final Handover,2027-05-18,,Not Started
+M5431,P1078,Safety Inspection,2025-09-30,2025-10-02,Completed
+M5432,P1078,Design Approval,2025-12-02,,In Progress
+M5433,P1078,Final Handover,2026-02-02,2026-04-03,Completed
+M5434,P1078,Testing,2026-04-06,2026-05-11,Completed
+M5435,P1078,Structural Work,2026-06-07,2026-08-06,Completed
+M5436,P1078,Land Acquisition,2026-08-09,2026-09-13,Completed
+M5437,P1078,Foundation,2026-10-10,2026-10-15,Completed
+M5438,P1079,Testing,2026-01-23,2026-01-28,Completed
+M5439,P1079,Major Construction,2026-04-04,,Not Started
+M5440,P1079,Safety Inspection,2026-06-14,,Pending
+M5441,P1079,Foundation,2026-08-24,,In Progress
+M5442,P1079,Final Handover,2026-11-03,2026-12-08,Delayed
+M5443,P1079,Land Acquisition,2027-01-13,,In Progress
+M5444,P1080,Safety Inspection,2022-08-15,,Pending
+M5445,P1080,Major Construction,2023-02-14,,Not Started
+M5446,P1080,Foundation,2023-08-16,,In Progress
+M5447,P1080,Structural Work,2024-02-15,2024-03-06,Delayed
+M5448,P1081,Design Approval,2024-03-24,2024-04-28,Completed
+M5449,P1081,Final Handover,2024-06-25,,Not Started
+M5450,P1081,Foundation,2024-09-26,,In Progress
+M5451,P1081,Safety Inspection,2024-12-28,,In Progress
+M5452,P1082,Safety Inspection,2022-06-22,,Not Started
+M5453,P1082,Design Approval,2022-10-04,,Pending
+M5454,P1082,Final Handover,2023-01-16,2023-01-26,Completed
+M5455,P1082,Land Acquisition,2023-04-30,2023-05-10,Completed
+M5456,P1082,Testing,2023-08-12,2023-08-22,Completed
+M5457,P1082,Foundation,2023-11-24,2023-12-14,Completed
+M5458,P1082,Major Construction,2024-03-07,2024-03-17,Completed
+M5459,P1083,Structural Work,2023-09-19,2023-11-18,Completed
+M5460,P1083,Testing,2023-11-26,,Completed
+M5461,P1083,Foundation,2024-02-02,2024-02-07,Delayed
+M5462,P1083,Final Handover,2024-04-10,2024-06-09,Completed
+M5463,P1083,Design Approval,2024-06-17,2024-06-19,Completed
+M5464,P1084,Safety Inspection,2026-02-10,2026-04-11,Completed
+M5465,P1084,Major Construction,2026-06-06,2026-06-11,Delayed
+M5466,P1084,Testing,2026-09-30,2026-10-05,Completed
+M5467,P1084,Final Handover,2027-01-25,2027-03-26,Completed
+M5468,P1084,Foundation,2027-05-21,2027-05-31,Completed
+M5469,P1084,Design Approval,2027-09-14,,In Progress
+M5470,P1084,Structural Work,2028-01-08,,In Progress
+M5471,P1085,Land Acquisition,2025-10-27,2025-10-29,Delayed
+M5472,P1085,Safety Inspection,2026-01-24,2026-02-03,Delayed
+M5473,P1085,Structural Work,2026-04-22,2026-05-27,Delayed
+M5474,P1085,Foundation,2026-07-20,2026-07-22,Completed
+M5475,P1085,Design Approval,2026-10-16,2026-11-20,Completed
+M5476,P1085,Final Handover,2027-01-13,,Completed
+M5477,P1086,Major Construction,2026-02-22,2026-03-29,Delayed
+M5478,P1086,Structural Work,2026-05-11,,In Progress
+M5479,P1086,Design Approval,2026-07-29,,In Progress
+M5480,P1086,Land Acquisition,2026-10-15,2026-10-15,Completed
+M5481,P1086,Testing,2027-01-02,2027-01-22,Completed
+M5482,P1086,Final Handover,2027-03-21,2027-03-21,Completed
+M5483,P1087,Foundation,2024-06-10,2024-06-20,Completed
+M5484,P1087,Testing,2024-10-20,2024-10-25,Delayed
+M5485,P1087,Structural Work,2025-03-01,,In Progress
+M5486,P1087,Land Acquisition,2025-07-12,,Pending
+M5487,P1087,Design Approval,2025-11-21,2026-01-20,Completed
+M5488,P1087,Major Construction,2026-04-02,2026-06-01,Delayed
+M5489,P1088,Final Handover,2026-03-17,,Completed
+M5490,P1088,Design Approval,2026-07-19,2026-09-17,Completed
+M5491,P1088,Safety Inspection,2026-11-20,2026-11-30,Completed
+M5492,P1088,Foundation,2027-03-24,2027-03-24,Completed
+M5493,P1089,,2023-09-12,,Pending
+M5494,P1089,Major Construction,2023-11-05,,Pending
+M5495,P1089,Testing,2023-12-29,,Not Started
+M5496,P1089,Final Handover,2024-02-22,2024-02-27,Delayed
+M5497,P1089,Structural Work,2024-04-16,,Pending
+M5498,P1089,Safety Inspection,2024-06-09,2024-06-09,Completed
+M5499,P1089,Foundation,2024-08-02,,Pending
+M5500,P1090,Testing,2023-04-04,2023-04-04,Delayed
+M5501,P1090,Land Acquisition,2023-05-13,2023-06-16,Delayed
+M5502,P1090,Design Approval,2023-06-21,2023-06-21,Completed
+M5503,P1090,Foundation,2023-07-30,2023-07-30,Completed
+M5504,P1090,Safety Inspection,2023-09-06,,Not Started
+M5505,P1090,Final Handover,2023-10-15,2023-10-20,Completed
+M5506,P1090,Structural Work,2023-11-23,2023-12-21,Delayed
+M5507,P1091,Final Handover,2023-02-03,2023-02-13,Completed
+M5508,P1091,Design Approval,2023-06-15,2023-06-25,Completed
+M5509,P1091,Foundation,2023-10-25,2023-10-30,Completed
+M5510,P1091,Major Construction,2024-03-05,2024-03-15,Completed
+M5511,P1091,Testing,2024-07-15,2024-07-25,Completed
+M5512,P1092,Testing,2023-08-15,2023-09-04,Completed
+M5513,P1092,Foundation,2023-10-03,2023-10-05,Delayed
+M5514,P1092,Final Handover,2023-11-21,2023-11-26,Completed
+M5515,P1092,Structural Work,2024-01-09,2024-03-09,Delayed
+M5516,P1092,Safety Inspection,2024-02-27,2024-02-27,Completed
+M5517,P1093,Testing,2023-08-21,2023-09-25,Delayed
+M5518,P1093,Final Handover,2024-01-13,2024-01-15,Completed
+M5519,P1093,Land Acquisition,2024-06-06,2024-07-11,Completed
+M5520,P1093,Major Construction,2024-10-29,2024-11-18,Completed
+M5521,P1093,Structural Work,2025-03-23,2025-03-25,Completed
+M5522,P1094,Structural Work,2024-08-29,2024-09-18,
+M5523,P1094,Land Acquisition,2024-10-31,,Not Started
+M5524,P1094,Final Handover,2025-01-02,,Not Started
+M5525,P1094,Design Approval,2025-03-06,2025-03-11,Completed
+M5526,P1095,Land Acquisition,2024-01-14,,Pending
+M5527,P1095,Design Approval,2024-06-03,2024-07-08,Completed
+M5528,P1095,Testing,2024-10-22,2024-11-26,Delayed
+M5529,P1095,Structural Work,2025-03-12,,Not Started
+M5530,P1096,Major Construction,2023-08-23,2023-08-23,Completed
+M5531,P1096,Final Handover,2024-01-03,2024-01-03,Completed
+M5532,P1096,Land Acquisition,2024-05-14,2024-06-03,Delayed
+M5533,P1096,Testing,2024-09-24,2024-10-14,Completed
+M5534,P1097,Safety Inspection,2022-07-12,2022-09-19,Delayed
+M5535,P1097,Testing,,,Pending
+M5536,P1097,Land Acquisition,2022-10-31,2023-01-05,Delayed
+M5537,P1097,Major Construction,2022-12-26,2023-01-30,Completed
+M5538,P1097,Foundation,2023-02-19,2023-03-11,Delayed
+M5539,P1098,Testing,2024-07-16,2024-08-20,Completed
+M5540,P1098,Major Construction,2024-10-10,,Not Started
+M5541,P1098,Foundation,2025-01-04,2025-01-14,Completed
+M5542,P1098,Final Handover,2025-03-31,2025-04-10,Delayed
+M5543,P1098,Structural Work,2025-06-25,,Pending
+M5544,P1098,Safety Inspection,2025-09-19,,In Progress
+M5545,P1099,Foundation,2023-05-30,,Pending
+M5546,P1099,Final Handover,2023-08-18,,Pending
+M5547,P1099,Land Acquisition,2023-11-05,2023-12-25,Delayed
+M5548,P1099,Safety Inspection,2024-01-24,,Not Started
+M5549,P1100,Design Approval,2025-11-12,2025-11-17,Completed
+M5550,P1100,Land Acquisition,2026-04-16,2026-06-15,Completed
+M5551,P1100,Structural Work,2026-09-18,2026-09-28,Completed
+M5552,P1100,Foundation,2027-02-20,,Not Started
+M5553,P1100,Final Handover,2027-07-25,2027-08-04,Completed
+M5554,P1101,Design Approval,2022-03-07,2022-03-07,Completed
+M5555,P1101,Major Construction,2022-04-29,2022-06-28,Delayed
+M5556,P1101,Testing,2022-06-21,2022-08-20,Completed
+M5557,P1101,Foundation,2022-08-13,,Pending
+M5558,P1101,Land Acquisition,2022-10-05,,Not Started
+M5559,P1101,Safety Inspection,2022-11-27,,Not Started
+M5560,P1101,Final Handover,2023-01-19,,In Progress
+M5561,P1102,Major Construction,2024-11-12,2024-11-14,Completed
+M5562,P1102,Final Handover,2025-03-10,2025-03-12,Completed
+M5563,P1102,Land Acquisition,2025-07-06,2025-08-10,Delayed
+M5564,P1102,Foundation,2025-11-01,2025-12-31,Completed
+M5565,P1103,Safety Inspection,2025-12-04,2025-12-14,Completed
+M5566,P1103,Foundation,2026-01-27,2026-02-01,Completed
+M5567,P1103,Structural Work,2026-03-22,2026-04-01,Completed
+M5568,P1103,Design Approval,2026-05-15,2026-05-25,Completed
+M5569,P1103,Major Construction,2026-07-08,2026-08-12,Completed
+M5570,P1104,Structural Work,2026-03-24,,Not Started
+M5571,P1104,Land Acquisition,2026-08-27,2026-10-01,Delayed
+M5572,P1104,Foundation,2027-01-30,2027-02-04,Completed
+M5573,P1104,Final Handover,2027-07-04,2027-07-24,Completed
+M5574,P1104,Testing,2027-12-07,,Pending
+M5575,P1105,Final Handover,2023-12-24,2023-12-29,Completed
+M5576,P1105,Major Construction,2024-02-14,2024-04-14,Completed
+M5577,P1105,Design Approval,2024-04-06,2024-04-06,Completed
+M5578,P1105,Structural Work,2024-05-27,2024-05-29,Completed
+M5579,P1105,Land Acquisition,2024-07-18,2024-08-22,Completed
+M5580,P1105,Safety Inspection,2024-09-08,2024-09-18,Completed
+M5581,P1106,Structural Work,2022-07-04,,Delayed
+M5582,P1106,Testing,2022-10-10,2022-10-12,Completed
+M5583,P1106,Major Construction,2023-01-16,2023-02-20,Completed
+M5584,P1106,Design Approval,2023-04-24,2023-04-24,Completed
+M5585,P1106,Safety Inspection,2023-07-31,2023-09-04,Completed
+M5586,P1106,Foundation,2023-11-06,2023-12-11,Completed
+M5587,P1107,Safety Inspection,2024-01-19,,Pending
+M5588,P1107,Testing,2024-04-11,2024-05-16,Delayed
+M5589,P1107,Foundation,2024-07-03,2024-07-13,Completed
+M5590,P1107,Final Handover,2024-09-24,,In Progress
+M5591,P1108,Foundation,2024-07-10,2024-07-27,Delayed
+M5592,P1108,Design Approval,2024-10-29,2024-11-18,Completed
+M5593,P1108,Major Construction,2025-02-18,2025-02-28,Completed
+M5594,P1108,Structural Work,2025-06-09,2025-07-14,Completed
+M5595,P1109,Major Construction,2025-10-08,2025-10-18,Completed
+M5596,P1109,Design Approval,2025-12-03,2025-12-08,Completed
+M5597,P1109,Final Handover,2026-01-28,2026-02-07,Completed
+M5598,P1109,Foundation,2026-03-25,2026-04-04,Completed
+M5599,P1109,Land Acquisition,2026-05-20,2026-06-09,Completed
+M5600,P1109,Testing,2026-07-15,2026-07-20,Completed
+M5601,P1110,Foundation,2025-06-27,2025-07-29,Delayed
+M5602,P1110,Design Approval,2025-09-22,2025-11-21,Completed
+M5603,P1110,Testing,2025-12-19,2026-01-23,Delayed
+M5604,P1110,Safety Inspection,2026-03-16,2026-04-05,Completed
+M5605,P1110,Major Construction,2026-06-11,2026-08-10,Completed
+M5606,P1110,Land Acquisition,2026-09-07,2026-11-01,Delayed
+M5607,P1110,Structural Work,2026-12-03,,In Progress
+M5608,P1111,Major Construction,2025-09-23,2025-09-23,Completed
+M5609,P1111,Structural Work,2025-12-01,2026-01-14,Delayed
+M5610,P1111,Testing,2026-02-08,2026-03-24,Delayed
+M5611,P1111,Foundation,2026-04-18,2026-06-17,Delayed
+M5612,P1111,Design Approval,2026-06-25,2026-08-24,Delayed
+M5613,P1111,Land Acquisition,2026-09-02,2026-11-01,Delayed
+M5614,P1111,Final Handover,2026-11-10,2027-01-11,Delayed
+M5615,p1112,Safety Inspection,2022-11-25,2022-11-25,Delayed
+M5616,P1112,Structural Work,2023-04-19,,Pending
+M5617,P1112,Final Handover,2023-09-11,,In Progress
+M5618,P1112,Design Approval,2024-02-03,2024-03-09,Completed
+M5619,P1112,Major Construction,2024-06-27,,Pending
+M5620,P1113,Final Handover,2025-01-04,2025-01-06,Delayed
+M5621,P1113,Safety Inspection,2025-05-10,2025-05-10,Delayed
+M5622,P1113,Major Construction,2025-09-12,2025-09-22,Completed
+M5623,P1113,Structural Work,2026-01-16,2026-01-26,Delayed
+M5624,P1113,Foundation,2026-05-21,2026-05-21,Completed
+M5625,P1114,Land Acquisition,2026-03-16,2026-03-21,Completed
+M5626,P1114,Major Construction,2026-06-10,2026-06-20,Completed
+M5627,P1114,Structural Work,2026-09-04,,Pending
+M5628,P1114,Safety Inspection,2026-11-29,,Pending
+M5629,P1114,Final Handover,2027-02-23,2027-03-30,Delayed
+M5630,P1114,Testing,2027-05-20,2027-06-09,Completed
+M5631,P1114,Design Approval,2027-08-14,2027-09-03,Completed
+M5632,P1115,Safety Inspection,2022-10-22,,Pending
+M5633,P1115,Foundation,2023-01-31,2023-03-07,Completed
+M5634,P1115,Structural Work,2023-05-13,2023-06-12,Delayed
+M5635,P1115,Land Acquisition,2023-08-22,2023-09-26,Delayed
+M5636,P1115,Design Approval,2023-12-01,2023-12-26,Delayed
+M5637,P1115,Testing,2024-03-12,2024-03-22,Completed
+M5638,P1115,Major Construction,2024-06-21,2024-07-01,Completed
+M5639,P1116,Testing,2026-02-05,,Pending
+M5640,P1116,Major Construction,2026-07-08,,Pending
+M5641,P1116,Final Handover,2026-12-08,2026-12-13,Delayed
+M5642,P1116,,2027-05-10,2027-05-12,Completed
+M5643,P1116,Safety Inspection,2027-10-10,,Pending
+M5644,P1117,Major Construction,2024-10-16,,Not Started
+M5645,P1117,Land Acquisition,2025-03-17,,Not Started
+M5646,P1117,Structural Work,2025-08-16,,Pending
+M5647,P1117,Testing,2026-01-15,2026-02-19,Delayed
+M5648,P1118,Safety Inspection,2022-10-29,2022-12-09,Delayed
+M5649,P1118,Structural Work,2023-02-01,2023-02-03,Completed
+M5650,P1118,Land Acquisition,2023-05-07,2023-05-26,Delayed
+M5651,P1118,Major Construction,2023-08-10,2023-08-10,Completed
+M5652,P1118,Testing,2023-11-13,,Completed
+M5653,P1118,Final Handover,2024-02-16,2024-02-18,Completed
+M5654,P1118,,2024-05-21,2024-06-27,Delayed
+M5655,P1119,Testing,2025-08-23,,In Progress
+M5656,P1119,Land Acquisition,2025-10-13,,Pending
+M5657,P1119,Safety Inspection,2025-12-03,2025-12-05,Completed
+M5658,P1119,Foundation,2026-01-23,2026-03-14,Delayed
+M5659,P1119,Major Construction,2026-03-15,2026-03-25,Completed
+M5660,P1119,Design Approval,2026-05-05,2026-05-27,Delayed
+M5661,P1119,Structural Work,2026-06-25,2026-07-30,Completed
+M5662,P1120,Major Construction,2023-07-13,,Not Started
+M5663,P1120,Structural Work,,,Not Started
+M5664,P1120,Final Handover,2023-11-29,,In Progress
+M5665,P1120,Foundation,2024-02-07,2024-02-09,Completed
+M5666,P1120,Testing,2024-04-16,,Pending
+M5667,P1120,Safety Inspection,2024-06-25,2024-06-25,Delayed
+M5668,P1120,Design Approval,2024-09-02,,Pending
+M5669,P1121,Safety Inspection,2025-04-06,,Not Started
+M5670,P1121,Structural Work,2025-07-26,2025-08-30,Completed
+M5671,P1121,Land Acquisition,2025-11-15,,In Progress
+M5672,P1121,Foundation,2026-03-06,,In Progress
+M5673,P1121,Major Construction,2026-06-25,2026-07-15,Completed
+M5674,P1122,Design Approval,2022-12-28,2023-01-17,Completed
+M5675,P1122,Testing,2023-04-13,2023-04-15,Completed
+M5676,P1122,Foundation,2023-07-28,2023-09-01,Delayed
+M5677,P1122,Safety Inspection,2023-11-11,2024-01-10,Completed
+M5678,P1123,Final Handover,2022-06-14,2022-08-13,Delayed
+M5679,P1123,Design Approval,2022-10-03,2022-10-03,Completed
+M5680,P1123,Testing,2023-01-22,2023-02-26,Completed
+M5681,P1123,Structural Work,2023-05-12,2023-05-12,Completed
+M5682,P1123,Foundation,2023-08-31,2023-09-05,Completed
+M5683,P1124,Foundation,2022-07-04,,Not Started
+M5684,P1124,Final Handover,2022-10-19,2022-10-21,Delayed
+M5685,P1124,Land Acquisition,2023-02-02,2023-02-02,Completed
+M5686,P1124,Safety Inspection,2023-05-20,,In Progress
+M5687,P1125,Major Construction,2023-04-12,,In Progress
+M5688,P1125,Structural Work,2023-09-19,2023-09-24,Completed
+M5689,P1125,Land Acquisition,2024-02-26,2024-02-28,Completed
+M5690,P1125,Safety Inspection,2024-08-04,2024-08-04,Completed
+M5691,P1126,Final Handover,2025-04-08,,Pending
+M5692,P1126,Major Construction,2025-09-25,2025-10-05,Completed
+M5693,P1126,Land Acquisition,2026-03-14,,Pending
+M5694,P1126,Structural Work,2026-08-31,,Pending
+M5695,P1127,Structural Work,2025-11-23,,Not Started
+M5696,P1127,Testing,2026-01-17,2026-01-22,Completed
+M5697,P1127,Land Acquisition,2026-03-12,,Not Started
+M5698,P1127,Final Handover,2026-05-06,,In Progress
+M5699,P1127,Major Construction,2026-06-29,2026-06-29,Completed
+M5700,P1128,Land Acquisition,2024-05-30,2024-06-04,Completed
+M5701,P1128,Major Construction,2024-08-27,2024-10-01,Completed
+M5702,P1128,Foundation,2024-11-24,2024-11-26,Completed
+M5703,P1128,Design Approval,2025-02-21,2025-03-13,Completed
+M5704,P1128,Testing,2025-05-21,2025-05-26,Completed
+M5705,P1128,Final Handover,2025-08-18,2025-09-22,Completed
+M5706,P1129,Foundation,2024-05-04,2024-05-04,Completed
+M5707,P1129,Land Acquisition,2024-09-14,2024-10-19,Completed
+M5708,P1129,Final Handover,2025-01-25,2025-01-25,Completed
+M5709,P1129,Major Construction,2025-06-07,2025-06-09,Delayed
+M5710,P1129,Testing,2025-10-18,2025-10-23,Completed
+M5711,P1130,Design Approval,2024-09-10,2024-11-09,Delayed
+M5712,P1130,Safety Inspection,2024-10-26,2024-10-31,Delayed
+M5713,P1130,Structural Work,2024-12-11,2024-12-13,Completed
+M5714,P1130,Major Construction,2025-01-26,2025-02-15,Completed
+M5715,P1130,Final Handover,2025-03-13,2025-03-23,Completed
+M5716,P1131,Testing,2025-10-18,2025-10-28,Delayed
+M5717,P1131,Structural Work,2025-12-19,2025-12-24,Completed
+M5718,P1131,Safety Inspection,2026-02-19,2026-02-21,Completed
+M5719,P1131,Land Acquisition,2026-04-22,2026-05-27,Completed
+M5720,P1131,Major Construction,2026-06-23,2026-07-28,Completed
+M5721,P1131,Design Approval,2026-08-24,2026-09-13,Delayed
+M5722,P1132,Safety Inspection,2023-04-21,2023-04-23,Delayed
+M5723,P1132,Design Approval,2023-07-24,2023-10-02,Delayed
+M5724,P1132,Major Construction,2023-10-25,2023-12-22,Delayed
+M5725,P1132,Final Handover,2024-01-27,2024-01-29,Completed
+M5726,P1132,Testing,2024-04-29,2024-05-23,Delayed
+M5727,P1132,Structural Work,2024-08-01,2024-10-17,Delayed
+M5728,P1132,Foundation,2024-11-02,2024-11-22,Delayed
+M5729,P1133,Design Approval,2023-12-08,2023-12-08,Delayed
+M5730,P1133,Safety Inspection,2024-01-26,2024-03-01,Completed
+M5731,P1133,Structural Work,2024-03-15,,Completed
+M5732,P1133,Final Handover,2024-05-04,2024-07-03,Completed
+M5733,P1133,Foundation,2024-06-22,2024-07-27,Completed
+M5734,P1133,Major Construction,2024-08-10,2024-08-15,Delayed
+M5735,P1134,Structural Work,2025-09-06,2025-09-16,Completed
+M5736,P1134,Design Approval,2025-12-01,2025-12-21,Completed
+M5737,P1134,Testing,2026-02-24,2026-03-16,Delayed
+M5738,P1134,Foundation,2026-05-21,2026-07-20,Completed
+M5739,P1134,Major Construction,2026-08-15,2026-09-04,Completed
+M5740,P1134,Final Handover,2026-11-08,2026-11-28,Completed
+M5741,P1134,Safety Inspection,2027-02-02,2027-02-07,Completed
+M5742,P1135,Safety Inspection,2026-02-11,2026-02-21,Delayed
+M5743,P1135,Testing,2026-06-06,2026-06-08,Completed
+M5744,P1135,Major Construction,2026-09-29,2026-10-01,Delayed
+M5745,P1135,Structural Work,2027-01-21,2027-01-26,Delayed
+M5746,P1135,Foundation,2027-05-16,2027-07-15,Completed
+M5747,P1136,Land Acquisition,2024-05-12,,In Progress
+M5748,P1136,Final Handover,,,Pending
+M5749,P1136,Testing,2024-12-05,2025-01-09,Delayed
+M5750,P1136,Safety Inspection,2025-03-18,,Not Started
+M5751,P1136,Design Approval,2025-06-29,,In Progress
+M5752,P1137,Final Handover,,2025-02-26,Completed
+M5753,P1137,Major Construction,2025-07-02,2025-07-02,Delayed
+M5754,P1137,Structural Work,2025-11-08,,Pending
+M5755,P1137,Safety Inspection,2026-03-16,,In Progress
+M5756,P1137,Testing,2026-07-22,2026-08-11,Completed
+M5757,P1138,Land Acquisition,2022-10-19,2022-10-29,Completed
+M5758,P1138,Major Construction,2023-03-08,2023-04-12,Completed
+M5759,P1138,Structural Work,2023-07-27,2023-07-27,Completed
+M5760,P1138,Foundation,2023-12-14,2024-01-18,Completed
+M5761,P1139,Land Acquisition,2023-11-04,2023-11-14,Completed
+M5762,P1139,Foundation,2024-01-21,2024-03-21,Completed
+M5763,P1139,Major Construction,2024-04-08,2024-04-08,Completed
+M5764,P1139,Final Handover,2024-06-25,,Not Started
+M5765,P1139,Structural Work,2024-09-11,2024-10-16,Delayed
+M5766,P1139,Design Approval,2024-11-28,,Not Started
+M5767,P1140,Major Construction,2022-06-24,2022-07-04,Completed
+M5768,P1140,Safety Inspection,2022-10-24,2022-10-24,Completed
+M5769,P1140,Testing,2023-02-23,2023-03-15,Completed
+M5770,P1140,Final Handover,2023-06-25,2023-06-30,Completed
+M5771,P1141,Foundation,2024-09-30,2024-10-05,Completed
+M5772,P1141,Major Construction,2025-03-15,2025-04-19,Completed
+M5773,P1141,Testing,2025-08-27,2025-10-26,Completed
+M5774,P1141,Design Approval,2026-02-09,2026-02-09,Completed
+M5775,P1142,Final Handover,2024-12-14,2025-01-19,Delayed
+M5776,P1142,Safety Inspection,2025-02-01,2025-03-08,Completed
+M5777,P1142,Structural Work,2025-03-23,2025-03-28,Completed
+M5778,P1142,Testing,2025-05-11,2025-05-21,Delayed
+M5779,P1142,,2025-06-29,2025-07-09,Completed
+M5780,P1143,Safety Inspection,2023-05-29,,In Progress
+M5781,P1143,Structural Work,2023-09-17,2023-09-22,Completed
+M5782,P1143,Foundation,2024-01-06,2024-01-26,Completed
+M5783,P1143,Design Approval,2024-04-27,,In Progress
+M5784,P1143,Final Handover,2024-08-16,,Not Started
+M5785,P1143,Land Acquisition,2024-12-05,,In Progress
+M5786,P1143,Major Construction,2025-03-26,2025-05-25,Completed
+M5787,P1144,Safety Inspection,2025-11-01,2025-12-06,Completed
+M5788,P1144,Structural Work,2026-03-04,2026-03-04,Completed
+M5789,P1144,Testing,2026-07-05,2026-07-05,Delayed
+M5790,P1144,Design Approval,2026-11-04,2026-11-04,Delayed
+M5791,P1144,Major Construction,2027-03-07,2027-04-11,Completed
+M5792,P1144,Foundation,2027-07-08,2027-07-08,Completed
+M5793,P1145,Land Acquisition,2025-12-14,2026-01-18,Completed
+M5794,P1145,Major Construction,2026-06-11,2026-06-11,Completed
+M5795,P1145,Testing,2026-12-07,2026-12-09,Delayed
+M5796,P1145,Design Approval,2027-06-04,2027-07-09,Completed
+M5797,P1146,Foundation,2022-07-22,,Pending
+M5798,P1146,Final Handover,2022-10-10,,In Progress
+M5799,P1146,Safety Inspection,2022-12-29,,
+M5800,P1146,Structural Work,2023-03-19,,In Progress
+M5801,P1147,Foundation,2024-05-17,2024-05-17,Completed
+M5802,P1147,Safety Inspection,2024-09-04,,In Progress
+M5803,P1147,Land Acquisition,2024-12-22,2024-12-22,Delayed
+M5804,P1147,Final Handover,2025-04-11,,Pending
+M5805,P1147,Testing,2025-07-29,,Pending
+M5806,P1147,Design Approval,2025-11-16,,Pending
+M5807,P1148,Safety Inspection,,2024-04-16,Delayed
+M5808,P1148,Design Approval,2024-08-05,2024-08-05,Completed
+M5809,P1148,Major Construction,2024-12-21,2025-01-07,Delayed
+M5810,P1148,Land Acquisition,2025-05-09,,Pending
+M5811,P1148,Structural Work,2025-09-24,2025-10-09,Delayed
+M5812,P1149,Safety Inspection,2023-08-09,,Not Started
+M5813,P1149,Foundation,2023-11-09,2023-12-14,Delayed
+M5814,P1149,Design Approval,2024-02-09,2024-02-19,Completed
+M5815,P1149,Final Handover,2024-05-11,2024-05-11,Delayed
+M5816,P1150,Design Approval,2022-12-04,2023-01-08,Completed
+M5817,P1150,Major Construction,2023-02-06,2023-04-07,Completed
+M5818,P1150,Safety Inspection,2023-04-11,2023-04-21,Completed
+M5819,P1150,Foundation,2023-06-14,2023-07-21,Delayed
+M5820,P1150,Testing,2023-08-16,2023-10-19,Delayed
+M5821,P1150,Structural Work,2023-10-19,2023-12-11,Delayed
+M5822,P1150,Final Handover,2023-12-22,2024-01-19,Delayed
+M5823,P1151,Final Handover,2024-11-02,2024-11-02,Completed
+M5824,P1151,Land Acquisition,2025-02-25,2025-02-25,Completed
+M5825,P1151,Testing,,2025-08-19,Delayed
+M5826,P1151,Structural Work,2025-10-12,2025-10-12,Completed
+M5827,P1151,Design Approval,2026-02-04,2026-02-09,Completed
+M5828,P1151,Safety Inspection,2026-05-30,2026-06-01,Delayed
+M5829,P1152,Structural Work,2025-09-21,,In Progress
+M5830,P1152,Land Acquisition,2026-01-26,,Not Started
+M5831,P1152,Safety Inspection,2026-06-02,2026-07-07,Completed
+M5832,P1152,Design Approval,2026-10-07,2026-11-11,Completed
+M5833,P1152,Final Handover,2027-02-11,,Pending
+M5834,P1153,Foundation,2023-12-04,,Not Started
+M5835,P1153,Safety Inspection,2024-01-24,2024-03-24,Completed
+M5836,P1153,Major Construction,2024-03-15,2024-05-14,Delayed
+M5837,P1153,Land Acquisition,2024-05-05,2024-06-09,Completed
+M5838,P1153,Testing,2024-06-24,2024-08-23,Completed
+M5839,P1153,Structural Work,2024-08-14,,Not Started
+M5840,P1153,Design Approval,2024-10-04,2024-10-04,Completed
+M5841,P1154,Foundation,2025-11-30,2025-12-02,Completed
+M5842,P1154,Safety Inspection,2026-01-19,2026-03-20,Delayed
+M5843,P1154,Structural Work,2026-03-10,,Pending
+M5844,P1154,Design Approval,2026-04-30,,Pending
+M5845,P1154,Final Handover,2026-06-19,2026-06-21,Completed
+M5846,P1154,Testing,2026-08-08,,Not Started
+M5847,P1155,Safety Inspection,2025-07-23,2025-08-12,Delayed
+M5848,P1155,Testing,2025-11-04,2025-11-06,Completed
+M5849,P1155,Structural Work,2026-02-17,2026-03-24,Delayed
+M5850,P1155,Design Approval,2026-06-01,2026-06-01,Completed
+M5851,P1155,Major Construction,2026-09-14,2026-09-14,Completed
+M5852,P1155,Land Acquisition,2026-12-27,2027-01-16,Completed
+M5853,P1156,Structural Work,2024-07-02,2024-08-31,Completed
+M5854,P1156,Final Handover,2024-08-27,,In Progress
+M5855,P1156,Testing,2024-10-23,2024-10-25,Completed
+M5856,P1156,Design Approval,2024-12-18,2024-12-23,Completed
+M5857,P1156,Foundation,2025-02-13,2025-02-18,Completed
+M5858,P1156,Land Acquisition,2025-04-10,,In Progress
+M5859,P1157,Design Approval,2025-06-16,2025-08-15,
+M5860,P1157,Testing,2025-10-08,2025-10-08,Completed
+M5861,P1157,Land Acquisition,2026-01-31,,Not Started
+M5862,P1157,Major Construction,2026-05-25,2026-06-14,Completed
+M5863,P1158,Structural Work,2023-03-31,2023-04-02,Delayed
+M5864,P1158,Testing,2023-06-01,2023-06-11,Completed
+M5865,P1158,Safety Inspection,2023-08-01,2023-08-21,Delayed
+M5866,P1158,Foundation,2023-10-02,2023-10-12,Completed
+M5867,P1158,Design Approval,2023-12-02,2023-12-22,Delayed
+M5868,P1158,Land Acquisition,2024-02-02,2024-02-07,Completed
+M5869,P1158,Final Handover,2024-04-03,2024-04-05,Completed
+M5870,P1159,Structural Work,2024-04-10,2024-06-09,Delayed
+M5871,P1159,Foundation,2024-08-04,2024-08-06,Completed
+M5872,P1159,Design Approval,2024-11-28,2024-12-03,Completed
+M5873,P1159,Land Acquisition,2025-03-24,,Not Started
+M5874,P1159,Major Construction,2025-07-18,,Pending
+M5875,P1159,Testing,2025-11-11,,Not Started
+M5876,P1160,Design Approval,2023-10-05,2023-12-04,Delayed
+M5877,P1160,Structural Work,2023-11-27,2024-01-01,Delayed
+M5878,P1160,Major Construction,2024-01-20,2024-01-22,Completed
+M5879,P1160,Safety Inspection,2024-03-13,2024-04-02,Completed
+M5880,P1160,Final Handover,2024-05-05,2024-05-25,Completed
+M5881,P1161,Safety Inspection,2025-11-29,2025-12-19,Completed
+M5882,P1161,Land Acquisition,2026-05-16,2026-05-26,Delayed
+M5883,P1161,Final Handover,2026-10-31,2026-12-05,Completed
+M5884,P1161,Structural Work,2027-04-17,2027-04-19,Completed
+M5885,P1162,Safety Inspection,2022-11-27,2023-01-01,Completed
+M5886,P1162,Design Approval,2023-01-15,2023-02-19,Completed
+M5887,P1162,Final Handover,2023-03-05,2023-03-15,Completed
+M5888,P1162,Foundation,2023-04-23,,In Progress
+M5889,P1163,Safety Inspection,2022-06-26,,Pending
+M5890,P1163,Design Approval,2022-08-20,2022-09-24,Completed
+M5891,P1163,Foundation,2022-10-14,2022-10-19,Delayed
+M5892,P1163,Structural Work,2022-12-08,2023-01-18,Delayed
+M5893,P1163,Land Acquisition,2023-02-01,2023-02-26,Delayed
+M5894,P1164,Land Acquisition,2024-12-11,2024-12-21,Completed
+M5895,P1164,Major Construction,2025-02-10,2025-02-12,Completed
+M5896,P1164,Testing,2025-04-13,,Pending
+M5897,P1164,Foundation,2025-06-13,2025-06-18,Completed
+M5898,P1164,Final Handover,2025-08-14,2025-09-18,Delayed
+M5899,P1164,Structural Work,2025-10-14,,Not Started
+M5900,P1165,Structural Work,2025-04-12,2025-04-12,Completed
+M5901,P1165,Foundation,2025-08-14,2025-08-24,Completed
+M5902,P1165,Safety Inspection,2025-12-16,2026-01-05,Completed
+M5903,P1165,Testing,2026-04-19,2026-04-24,Completed
+M5904,P1165,Final Handover,2026-08-21,2026-08-31,Completed
+M5905,P1166,Safety Inspection,2022-05-26,2022-05-31,Completed
+M5906,P1166,Design Approval,2022-09-20,2022-12-07,Delayed
+M5907,P1166,Foundation,,2023-01-17,Completed
+M5908,P1166,Land Acquisition,2023-05-12,2023-06-16,Completed
+M5909,P1167,Testing,2022-09-06,2022-11-05,Completed
+M5910,P1167,,2022-10-30,,Not Started
+M5911,P1167,Safety Inspection,2022-12-22,,In Progress
+M5912,P1167,Land Acquisition,2023-02-14,,Not Started
+M5913,P1167,Foundation,2023-04-09,,In Progress
+M5914,P1167,Major Construction,2023-06-01,2023-07-06,Delayed
+M5915,P1167,Final Handover,2023-07-25,2023-08-14,Completed
+M5916,P1168,Foundation,2025-04-23,2025-06-22,Completed
+M5917,P1168,Safety Inspection,2025-05-29,2025-06-03,Delayed
+M5918,P1168,Final Handover,2025-07-04,2025-07-24,Completed
+M5919,P1168,Design Approval,2025-08-09,2025-08-14,Completed
+M5920,P1168,Structural Work,2025-09-14,2025-11-13,Completed
+M5921,P1168,Major Construction,2025-10-20,2025-10-20,Completed
+M5922,P1169,Foundation,2025-10-17,,Pending
+M5923,P1169,Structural Work,2026-01-02,,In Progress
+M5924,P1169,Final Handover,2026-03-21,2026-03-31,Completed
+M5925,P1169,Testing,2026-06-06,,Completed
+M5926,P1169,Design Approval,2026-08-23,2026-09-02,Completed
+M5927,P1169,Land Acquisition,2026-11-08,,In Progress
+M5928,P1170,Land Acquisition,2023-06-14,2023-08-05,Delayed
+M5929,P1170,Testing,2023-09-04,2023-09-09,Completed
+M5930,P1170,Major Construction,,2024-02-04,Delayed
+M5931,P1170,Safety Inspection,2024-02-15,2024-02-15,Delayed
+M5932,P1170,Foundation,2024-05-07,,Pending
+M5933,P1171,Major Construction,2023-01-23,2023-02-02,Completed
+M5934,P1171,Land Acquisition,2023-04-15,2023-04-15,Completed
+M5935,P1171,Structural Work,2023-07-05,2023-07-07,Completed
+M5936,P1171,Final Handover,2023-09-25,2023-09-25,Delayed
+M5937,P1172,Safety Inspection,2025-03-30,,Not Started
+M5938,P1172,Design Approval,2025-08-10,,Not Started
+M5939,P1172,Structural Work,2025-12-21,2025-12-23,Delayed
+M5940,P1172,Foundation,2026-05-03,2026-05-08,Completed
+M5941,P1173,Testing,2022-07-08,2022-07-18,Delayed
+M5942,P1173,Foundation,2022-10-12,2022-10-17,Completed
+M5943,P1173,Safety Inspection,2023-01-16,2023-01-26,Delayed
+M5944,P1173,Structural Work,2023-04-22,2023-05-12,Completed
+M5945,P1173,Land Acquisition,2023-07-27,2023-08-01,Delayed
+M5946,P1173,Major Construction,2023-10-31,2023-11-20,Completed
+M5947,P1174,Safety Inspection,2023-04-02,,In Progress
+M5948,P1174,Land Acquisition,2023-09-28,2023-10-18,Delayed
+M5949,P1174,Final Handover,2024-03-25,,Pending
+M5950,P1174,Structural Work,2024-09-20,2024-11-19,Delayed
+M5951,P1175,Final Handover,2022-10-30,,In Progress
+M5952,P1175,Land Acquisition,2022-12-29,2023-02-27,Completed
+M5953,P1175,Foundation,2023-02-27,2023-03-04,Delayed
+M5954,P1175,Major Construction,2023-04-29,2023-06-03,Completed
+M5955,P1175,Testing,2023-06-28,2023-07-08,Completed
+M5956,P1175,Design Approval,2023-08-27,2023-10-26,Completed
+M5957,P1176,Design Approval,2025-04-14,,Not Started
+M5958,P1176,Major Construction,2025-07-07,,Not Started
+M5959,P1176,Testing,2025-09-29,,In Progress
+M5960,P1176,Foundation,2025-12-23,,Completed
+M5961,P1176,Structural Work,2026-03-17,,Pending
+M5962,P1176,Safety Inspection,2026-06-09,,Pending
+M5963,P1176,Final Handover,2026-09-01,2026-10-06,Completed
+M5964,P1177,Foundation,2025-07-19,2025-07-24,Completed
+M5965,P1177,Land Acquisition,2025-08-25,2025-09-14,Completed
+M5966,P1177,Final Handover,2025-09-30,2025-11-29,Completed
+M5967,P1177,Testing,2025-11-06,2025-11-26,Completed
+M5968,P1177,Structural Work,2025-12-12,2026-02-10,Completed
+M5969,P1177,Major Construction,2026-01-18,2026-02-22,Completed
+M5970,P1178,Testing,2023-08-16,2023-09-05,Completed
+M5971,P1178,Land Acquisition,2023-12-07,2023-12-17,Delayed
+M5972,P1178,Major Construction,2024-03-29,2024-03-31,Completed
+M5973,P1178,Final Handover,2024-07-20,2024-08-09,Completed
+M5974,P1178,Foundation,2024-11-10,2025-01-09,Completed
+M5975,p1178,Safety Inspection,2025-03-03,2025-03-03,Completed
+M5976,P1179,Land Acquisition,2023-03-22,2023-04-01,Completed
+M5977,P1179,Structural Work,2023-08-22,2023-08-27,Completed
+M5978,P1179,Foundation,2024-01-22,,Pending
+M5979,P1179,Testing,2024-06-22,2024-08-21,Completed
+M5980,P1179,Major Construction,2024-11-22,,In Progress
+M5981,P1180,Structural Work,2022-07-14,2022-09-12,Delayed
+M5982,P1180,Design Approval,2022-10-21,,Pending
+M5983,P1180,Land Acquisition,2023-01-28,2023-01-28,Completed
+M5984,P1180,Final Handover,2023-05-06,2023-05-11,Completed
+M5985,P1180,Testing,2023-08-13,2023-09-17,Completed
+M5986,P1181,Design Approval,2023-11-24,,Pending
+M5987,P1181,Major Construction,2024-02-09,2024-02-27,Delayed
+M5988,P1181,Final Handover,2024-04-27,2024-06-26,Completed
+M5989,P1181,,2024-07-13,,In Progress
+M5990,P1182,Foundation,2024-10-06,2024-10-06,Completed
+M5991,P1182,Safety Inspection,2025-01-02,2025-02-06,Completed
+M5992,P1182,Major Construction,2025-04-01,2025-04-03,Completed
+M5993,P1182,Testing,2025-06-28,2025-06-28,Completed
+M5994,P1182,Design Approval,2025-09-25,2025-11-24,Delayed
+M5995,P1182,Final Handover,2025-12-22,2026-01-11,Completed
+M5996,P1183,Design Approval,2024-01-20,2024-03-20,Completed
+M5997,P1183,Final Handover,2024-03-29,2024-03-29,Completed
+M5998,P1183,Foundation,2024-06-06,2024-06-11,Completed
+M5999,P1183,Structural Work,2024-08-14,,Pending
+M6000,P1183,Major Construction,2024-10-21,2024-10-31,
+M6001,P1183,Land Acquisition,2024-12-29,2025-01-08,Completed
+M6002,P1183,Testing,2025-03-08,,In Progress
+M6003,P1184,Safety Inspection,2025-05-09,,In Progress
+M6004,P1184,Foundation,2025-08-12,,In Progress
+M6005,P1184,Structural Work,2025-11-15,2025-12-20,Delayed
+M6006,P1184,Design Approval,2026-02-18,2026-04-24,Delayed
+M6007,P1184,Land Acquisition,2026-05-24,2026-06-28,Completed
+M6008,P1185,Foundation,2024-01-15,,Not Started
+M6009,P1185,Structural Work,2024-04-14,,Pending
+M6010,P1185,Safety Inspection,2024-07-12,2024-07-14,Completed
+M6011,P1185,Major Construction,2024-10-10,2024-12-09,Delayed
+M6012,P1186,Structural Work,2023-06-01,2023-07-06,Completed
+M6013,P1186,Safety Inspection,2023-09-24,2023-11-23,Delayed
+M6014,P1186,Final Handover,2024-01-18,2024-02-22,
+M6015,P1186,Testing,2024-05-12,2024-06-01,Completed
+M6016,P1187,Final Handover,2024-02-29,2024-04-04,Completed
+M6017,P1187,Land Acquisition,2024-05-08,2024-06-12,Completed
+M6018,P1187,Safety Inspection,2024-07-16,2024-07-26,Completed
+M6019,P1187,Foundation,2024-09-23,2024-10-03,Completed
+M6020,P1187,Structural Work,2024-12-01,2024-12-21,Completed
+M6021,P1188,Final Handover,2022-05-26,2022-06-05,Delayed
+M6022,P1188,,2022-10-05,2022-10-25,Completed
+M6023,P1188,Structural Work,2023-02-15,2023-03-07,Completed
+M6024,P1188,Design Approval,2023-06-27,2023-06-27,Delayed
+M6025,P1189,Safety Inspection,2022-03-23,2022-03-23,Completed
+M6026,P1189,Structural Work,2022-05-11,2022-06-15,Completed
+M6027,P1189,Foundation,2022-06-29,,Pending
+M6028,P1189,Final Handover,2022-08-17,2022-08-19,Completed
+M6029,P1190,Final Handover,2022-10-22,2022-12-21,Completed
+M6030,P1190,Safety Inspection,2023-01-27,2023-02-06,Completed
+M6031,P1190,Land Acquisition,2023-05-04,2023-05-14,Completed
+M6032,P1190,Major Construction,2023-08-09,2023-08-14,Completed
+M6033,P1190,Structural Work,2023-11-14,2023-12-04,Completed
+M6034,P1190,,2024-02-19,2024-02-24,Completed
+M6035,P1190,Design Approval,2024-05-26,2024-06-15,Completed
+M6036,P1191,Safety Inspection,2023-07-20,2023-08-24,Completed
+M6037,P1191,Land Acquisition,2023-09-25,2023-10-30,Completed
+M6038,P1191,Structural Work,2023-12-01,2024-01-05,Completed
+M6039,P1191,Foundation,2024-02-07,2024-02-07,Completed
+M6040,P1191,Major Construction,2024-04-14,2024-05-04,Completed
+M6041,p1191,Design Approval,2024-06-20,2024-07-25,Delayed
+M6042,P1192,Major Construction,2022-03-12,2022-03-17,Completed
+M6043,P1192,Land Acquisition,2022-05-03,2022-05-03,Completed
+M6044,P1192,Testing,2022-06-24,2022-07-14,Completed
+M6045,P1192,Structural Work,2022-08-15,2022-08-20,Completed
+M6046,P1192,Safety Inspection,2022-10-06,2022-10-08,Delayed
+M6047,P1192,Design Approval,2022-11-27,2023-01-26,Completed
+M6048,P1192,Foundation,2023-01-18,2023-02-07,Completed
+M6049,P1193,Major Construction,2026-03-15,,Pending
+M6050,P1193,Land Acquisition,2026-07-10,,Not Started
+M6051,P1193,Foundation,2026-11-04,2026-11-09,Completed
+M6052,P1193,Final Handover,2027-03-01,2027-04-30,Delayed
+M6053,P1193,Structural Work,2027-06-26,2027-07-01,Completed
+M6054,P1193,Safety Inspection,2027-10-21,,In Progress
+M6055,P1194,Safety Inspection,2025-06-11,2025-07-01,Delayed
+M6056,P1194,Testing,2025-08-05,2025-09-12,Delayed
+M6057,P1194,Major Construction,2025-09-29,,Not Started
+M6058,P1194,Foundation,2025-11-24,2026-01-01,Delayed
+M6059,P1194,Design Approval,2026-01-18,2026-03-01,Delayed
+M6060,P1194,Structural Work,2026-03-14,2026-05-27,Delayed
+M6061,P1195,,2023-02-26,2023-02-28,Completed
+M6062,P1195,Major Construction,2023-07-11,2023-09-02,Delayed
+M6063,P1195,Testing,2023-11-23,,In Progress
+M6064,P1195,Land Acquisition,2024-04-06,2024-06-05,Completed
+M6065,P1195,Design Approval,2024-08-19,2024-10-25,Delayed
+M6066,P1195,Structural Work,2025-01-01,2025-01-06,Completed
+M6067,P1196,Structural Work,2025-10-04,2025-12-03,Completed
+M6068,P1196,Final Handover,2025-12-17,2026-01-06,Delayed
+M6069,P1196,Design Approval,2026-03-01,2026-03-01,Completed
+M6070,P1196,Land Acquisition,2026-05-14,2026-05-16,Completed
+M6071,P1196,Testing,2026-07-27,2026-09-25,Completed
+M6072,P1196,Major Construction,2026-10-09,2026-11-15,Delayed
+M6073,P1197,Final Handover,2023-12-04,,Pending
+M6074,P1197,Safety Inspection,2024-03-11,2024-03-16,Completed
+M6075,P1197,Land Acquisition,2024-06-18,,In Progress
+M6076,P1197,Testing,2024-09-24,,Not Started
+M6077,P1198,,2024-02-10,2024-03-01,Completed
+M6078,P1198,Final Handover,2024-06-28,2024-08-27,Completed
+M6079,P1198,Testing,2024-11-14,2024-11-14,Completed
+M6080,P1198,Design Approval,2025-04-02,,In Progress
+M6081,P1199,Safety Inspection,2025-03-28,2025-03-30,Completed
+M6082,P1199,Final Handover,2025-05-15,,In Progress
+M6083,P1199,Testing,2025-07-02,2025-08-31,Completed
+M6084,P1199,Design Approval,2025-08-19,2025-08-24,Completed
+M6085,P1199,Structural Work,2025-10-06,2025-10-16,Delayed
+M6086,P1199,Land Acquisition,2025-11-23,,In Progress
+M6087,P1200,Testing,2023-05-19,2023-06-08,Completed
+M6088,P1200,Structural Work,2023-10-23,,Not Started
+M6089,P1200,Final Handover,2024-03-28,,Pending
+M6090,P1200,Foundation,2024-09-01,,Not Started
+M6091,P1200,Major Construction,2025-02-05,2025-02-25,Delayed
+M6092,P1201,Testing,2023-08-09,2023-08-19,Completed
+M6093,P1201,Safety Inspection,2023-10-18,2023-12-17,Completed
+M6094,P1201,Final Handover,2023-12-27,2024-02-25,Completed
+M6095,P1201,Land Acquisition,2024-03-07,,Not Started
+M6096,P1201,Design Approval,2024-05-16,2024-07-15,Delayed
+M6097,P1201,Structural Work,2024-07-25,2024-09-13,Delayed
+M6098,P1202,Final Handover,2024-04-01,,In Progress
+M6099,P1202,Structural Work,2024-08-15,2024-09-11,Delayed
+M6100,P1202,Testing,2024-12-29,,Not Started
+M6101,P1202,Safety Inspection,2025-05-14,2025-05-14,Completed
+M6102,P1203,Testing,2026-03-15,,Not Started
+M6103,P1203,Structural Work,2026-07-04,2026-07-14,Completed
+M6104,P1203,Final Handover,2026-10-23,,In Progress
+M6105,P1203,Land Acquisition,2027-02-11,,Pending
+M6106,P1203,Major Construction,2027-06-02,2027-06-22,Completed
+M6107,P1203,Foundation,2027-09-21,,Not Started
+M6108,P1203,Safety Inspection,2028-01-10,2028-01-15,Delayed
+M6109,P1204,Foundation,2022-05-25,2022-05-30,
+M6110,P1204,Final Handover,2022-08-22,2022-09-01,Completed
+M6111,P1204,Design Approval,2022-11-19,2022-11-19,Completed
+M6112,P1204,Major Construction,2023-02-16,,In Progress
+M6113,P1204,Safety Inspection,2023-05-16,2023-06-20,Completed
+M6114,P1204,Testing,2023-08-13,2023-09-02,Delayed
+M6115,P1204,Land Acquisition,2023-11-10,,Pending
+M6116,P1205,Testing,2023-12-19,2024-01-08,Delayed
+M6117,P1205,Design Approval,2024-03-25,,Delayed
+M6118,P1205,Major Construction,2024-07-01,2024-08-05,Completed
+M6119,P1205,Land Acquisition,2024-10-06,2024-12-05,Completed
+M6120,P1206,Final Handover,2026-02-20,2026-04-21,Completed
+M6121,P1206,Structural Work,2026-05-26,,Pending
+M6122,P1206,Design Approval,2026-08-30,2026-09-09,Completed
+M6123,P1206,Safety Inspection,2026-12-03,2026-12-08,Completed
+M6124,P1206,Testing,2027-03-09,,Pending
+M6125,P1206,Foundation,2027-06-12,2027-07-17,Delayed
+M6126,P1207,Land Acquisition,2025-08-04,,In Progress
+M6127,P1207,Structural Work,2025-09-30,,Not Started
+M6128,P1207,Design Approval,2025-11-26,2025-12-06,Completed
+M6129,P1207,Foundation,2026-01-22,2026-02-11,Completed
+M6130,P1208,Testing,2024-08-01,,Not Started
+M6131,P1208,Design Approval,,,Not Started
+M6132,P1208,Structural Work,2025-05-14,2025-06-03,Delayed
+M6133,P1208,Foundation,2025-10-04,2025-10-24,Delayed
+M6134,P1209,Safety Inspection,2023-01-11,2023-01-13,Delayed
+M6135,P1209,Testing,2023-04-06,2023-04-16,Completed
+M6136,P1209,Foundation,2023-06-30,2023-08-04,Delayed
+M6137,P1209,Design Approval,2023-09-23,2023-09-23,Completed
+M6138,P1209,Land Acquisition,2023-12-17,2023-12-19,
+M6139,P1209,Final Handover,2024-03-11,2024-05-10,Completed
+M6140,P1210,Safety Inspection,2023-10-17,2023-10-19,Completed
+M6141,P1210,Foundation,2023-11-27,2024-02-12,Delayed
+M6142,P1210,Final Handover,2024-01-07,2024-02-10,Delayed
+M6143,P1210,Major Construction,2024-02-16,2024-04-27,Delayed
+M6144,P1210,Testing,2024-03-28,2024-03-30,Completed
+M6145,P1210,Structural Work,2024-05-08,2024-05-08,Delayed
+M6146,P1211,Foundation,2025-04-02,2025-04-07,Delayed
+M6147,P1211,Testing,2025-05-30,2025-05-30,Completed
+M6148,P1211,Structural Work,2025-07-26,2025-07-26,Completed
+M6149,p1211,Safety Inspection,2025-09-22,2025-09-24,Completed
+M6150,P1211,Land Acquisition,,2026-01-17,Completed
+M6151,P1211,Design Approval,2026-01-15,2026-02-19,Completed
+M6152,P1212,Foundation,2025-09-07,,Not Started
+M6153,P1212,Structural Work,2025-12-04,2025-12-09,Completed
+M6154,P1212,Land Acquisition,2026-03-03,2026-04-07,Completed
+M6155,P1212,Design Approval,2026-05-30,2026-06-19,Completed
+M6156,P1213,Foundation,2024-04-10,2024-04-15,Completed
+M6157,P1213,Land Acquisition,2024-07-01,2024-07-01,Delayed
+M6158,P1213,Safety Inspection,2024-09-21,2024-10-26,Completed
+M6159,P1213,Structural Work,2024-12-12,2024-12-12,Completed
+M6160,P1213,Major Construction,2025-03-04,2025-03-04,Completed
+M6161,P1213,Design Approval,2025-05-25,,Delayed
+M6162,P1214,Safety Inspection,2024-04-12,,In Progress
+M6163,P1214,Foundation,2024-08-10,2024-10-09,Completed
+M6164,P1214,Design Approval,2024-12-08,2025-02-06,Delayed
+M6165,P1214,Testing,2025-04-07,2025-06-06,Completed
+M6166,P1215,Major Construction,2023-08-22,2023-09-11,Completed
+M6167,P1215,Structural Work,2023-12-10,2023-12-10,Completed
+M6168,P1215,Safety Inspection,2024-03-30,2024-04-09,Delayed
+M6169,P1215,Foundation,2024-07-18,2024-07-28,Completed
+M6170,P1216,Design Approval,2025-05-03,2025-05-23,Completed
+M6171,P1216,Safety Inspection,2025-08-30,,Not Started
+M6172,P1216,Structural Work,2025-12-27,2026-01-31,Completed
+M6173,P1216,Foundation,2026-04-25,,Not Started
+M6174,P1216,Final Handover,2026-08-21,,Not Started
+M6175,P1216,Testing,2026-12-18,2026-12-28,Delayed
+M6176,P1216,Major Construction,2027-04-16,2027-06-15,Delayed
+M6177,P1217,Foundation,2022-12-08,2022-12-28,Completed
+M6178,P1217,Design Approval,2023-02-09,2023-03-01,Delayed
+M6179,P1217,Testing,2023-04-13,2023-05-03,Delayed
+M6180,P1217,Final Handover,2023-06-14,2023-06-24,Completed
+M6181,P1217,Safety Inspection,2023-08-16,2023-09-05,Completed
+M6182,P1217,Major Construction,2023-10-18,2023-11-04,Delayed
+M6183,P1218,Final Handover,2022-06-06,2022-06-16,Completed
+M6184,P1218,Design Approval,2022-09-07,2022-10-12,Delayed
+M6185,P1218,Safety Inspection,2022-12-09,2022-12-19,Completed
+M6186,P1218,Structural Work,2023-03-12,2023-05-11,Completed
+M6187,P1219,Foundation,2023-01-04,2023-01-04,Delayed
+M6188,P1219,Land Acquisition,2023-05-22,2023-05-22,Delayed
+M6189,P1219,Testing,2023-10-07,2023-10-09,Delayed
+M6190,P1219,Major Construction,2024-02-21,2024-03-02,Delayed
+M6191,P1219,Final Handover,2024-07-08,2024-09-06,Completed
+M6192,P1220,Major Construction,2025-10-31,2025-12-05,Completed
+M6193,P1220,Land Acquisition,2026-01-01,2026-01-03,Delayed
+M6194,P1220,Design Approval,2026-03-03,2026-04-07,Completed
+M6195,P1220,Testing,2026-05-04,2026-06-08,Completed
+M6196,P1220,Safety Inspection,2026-07-05,2026-09-03,Delayed
+M6197,P1220,Structural Work,2026-09-04,2026-09-14,Completed
+M6198,P1220,Foundation,2026-11-05,2026-11-07,Delayed
+M6199,P1221,Final Handover,2025-08-15,,In Progress
+M6200,P1221,Land Acquisition,2025-12-11,2025-12-11,Completed
+M6201,P1221,Structural Work,2026-04-08,,Not Started
+M6202,P1221,Major Construction,2026-08-04,2026-08-14,Delayed
+M6203,P1221,Design Approval,2026-11-30,,Not Started
+M6204,P1221,Safety Inspection,2027-03-28,,In Progress
+M6205,P1221,Testing,2027-07-24,2027-08-03,Delayed
+M6206,P1222,Structural Work,2023-02-20,,In Progress
+M6207,P1222,Testing,2023-05-02,,In Progress
+M6208,P1222,Land Acquisition,2023-07-13,,Pending
+M6209,P1222,Major Construction,2023-09-22,2023-10-27,Completed
+M6210,P1222,Safety Inspection,2023-12-02,2023-12-12,Completed
+M6211,P1222,Design Approval,2024-02-12,2024-03-18,Completed
+M6212,P1222,Foundation,2024-04-23,2024-05-03,Completed
+M6213,P1223,Testing,2023-12-20,,Delayed
+M6214,P1223,Major Construction,2024-05-20,2024-07-19,
+M6215,P1223,Final Handover,2024-10-19,2024-12-18,Completed
+M6216,P1223,Structural Work,2025-03-20,2025-03-25,Completed
+M6217,P1223,Design Approval,2025-08-19,2025-08-21,Completed
+M6218,P1224,Foundation,2025-10-12,,In Progress
+M6219,P1224,Major Construction,2026-01-06,2026-01-08,Completed
+M6220,P1224,Structural Work,2026-04-02,,In Progress
+M6221,P1224,Land Acquisition,2026-06-27,,In Progress
+M6222,P1224,Testing,2026-09-21,,Pending
+M6223,P1225,Design Approval,2024-04-17,2024-04-17,Completed
+M6224,P1225,Foundation,2024-10-01,2024-10-06,Completed
+M6225,P1225,Structural Work,2025-03-17,2025-05-16,Completed
+M6226,P1225,Land Acquisition,2025-08-31,2025-10-30,Completed
+M6227,P1226,Final Handover,2023-08-06,2023-10-05,Completed
+M6228,P1226,Safety Inspection,2024-01-02,2024-01-02,Completed
+M6229,P1226,Structural Work,2024-05-30,2024-05-30,Completed
+M6230,P1226,Land Acquisition,2024-10-26,2024-10-28,Completed
+M6231,P1227,Final Handover,2025-10-02,2025-10-04,Delayed
+M6232,P1227,Testing,2025-12-30,2026-02-28,Completed
+M6233,P1227,Land Acquisition,2026-03-29,2026-05-28,Delayed
+M6234,P1227,Design Approval,2026-06-26,2026-07-16,Completed
+M6235,P1227,Foundation,2026-09-22,2026-09-27,Delayed
+M6236,P1227,Major Construction,2026-12-20,2027-01-24,Completed
+M6237,P1227,Safety Inspection,2027-03-19,2027-05-18,Delayed
+M6238,P1228,Foundation,2023-02-16,2023-04-17,Completed
+M6239,P1228,Safety Inspection,2023-05-14,2023-05-24,Completed
+M6240,P1228,Structural Work,2023-08-09,2023-09-13,Completed
+M6241,P1228,Testing,2023-11-03,2023-11-08,Delayed
+M6242,p1228,Major Construction,2024-01-29,2024-01-31,Delayed
+M6243,P1229,Safety Inspection,2023-09-07,,Pending
+M6244,P1229,Final Handover,2024-01-21,,Not Started
+M6245,P1229,Land Acquisition,2024-06-05,2024-07-27,Delayed
+M6246,P1229,Design Approval,2024-10-19,2024-11-23,Completed
+M6247,P1230,Testing,2024-01-25,2024-02-29,Completed
+M6248,P1230,Land Acquisition,2024-03-17,,Not Started
+M6249,P1230,Foundation,2024-05-08,,Not Started
+M6250,P1230,Major Construction,2024-06-29,2024-07-04,Delayed
+M6251,P1230,Design Approval,2024-08-20,,In Progress
+M6252,P1230,Final Handover,2024-10-11,2024-10-31,Completed
+M6253,P1231,Foundation,2022-12-25,2023-02-23,Completed
+M6254,P1231,Major Construction,2023-03-14,2023-05-13,Completed
+M6255,P1231,Safety Inspection,2023-06-01,2023-07-31,Completed
+M6256,P1231,Final Handover,2023-08-19,2023-11-06,Delayed
+M6257,P1231,Design Approval,2023-11-06,2023-11-06,Completed
+M6258,P1231,Land Acquisition,2024-01-24,2024-02-13,Completed
+M6259,P1231,Structural Work,2024-04-12,2024-06-11,Completed
+M6260,P1232,Major Construction,2023-07-01,,Not Started
+M6261,P1232,Final Handover,2023-10-19,2023-12-02,Delayed
+M6262,P1232,Testing,2024-02-07,2024-02-12,Completed
+M6263,P1232,Land Acquisition,2024-05-27,2024-07-12,Delayed
+M6264,P1232,Structural Work,2024-09-14,2024-10-04,Completed
+M6265,P1232,Design Approval,2025-01-03,,In Progress
+M6266,P1232,Safety Inspection,2025-04-23,2025-04-25,Delayed
+M6267,P1233,Design Approval,2023-11-23,2023-11-28,Delayed
+M6268,P1233,Land Acquisition,2024-01-10,2024-01-30,Delayed
+M6269,P1233,Safety Inspection,2024-02-27,2024-03-18,Delayed
+M6270,P1233,Structural Work,2024-04-15,,Delayed
+M6271,P1233,Final Handover,2024-06-02,2024-06-12,Completed
+M6272,P1233,Major Construction,2024-07-20,2024-07-22,Delayed
+M6273,P1233,Testing,2024-09-06,2024-09-08,Completed
+M6274,P1234,Final Handover,2023-07-03,,Pending
+M6275,P1234,,2023-11-08,,In Progress
+M6276,P1234,Land Acquisition,2024-03-16,2024-03-21,Completed
+M6277,P1234,Design Approval,2024-07-22,2024-07-24,Completed
+M6278,P1234,Foundation,2024-11-27,2024-12-02,Completed
+M6279,P1235,Final Handover,2025-02-24,,In Progress
+M6280,P1235,Land Acquisition,2025-07-02,,Pending
+M6281,P1235,Design Approval,2025-11-06,2025-12-11,Delayed
+M6282,P1235,Testing,2026-03-14,2026-04-03,Completed
+M6283,P1235,Structural Work,2026-07-19,2026-07-19,Delayed
+M6284,P1235,Safety Inspection,2026-11-24,2026-11-29,Delayed
+M6285,P1236,Safety Inspection,2022-06-04,2022-06-14,Delayed
+M6286,P1236,Structural Work,2022-10-02,2022-10-04,Completed
+M6287,P1236,Testing,2023-01-30,2023-02-19,Delayed
+M6288,P1236,Major Construction,2023-05-30,2023-06-09,Completed
+M6289,P1236,Design Approval,2023-09-27,,Delayed
+M6290,P1236,Land Acquisition,2024-01-25,2024-02-29,Completed
+M6291,P1237,Land Acquisition,2024-05-27,,Pending
+M6292,P1237,Major Construction,2024-07-20,2024-08-09,Completed
+M6293,P1237,Testing,2024-09-12,,Not Started
+M6294,P1237,Foundation,2024-11-05,2024-11-15,Completed
+M6295,P1237,Final Handover,2024-12-29,2025-01-18,Completed
+M6296,P1238,Major Construction,2026-01-20,,Not Started
+M6297,P1238,Safety Inspection,2026-07-20,2026-09-18,
+M6298,P1238,Design Approval,2027-01-17,2027-01-17,Delayed
+M6299,P1238,Testing,2027-07-17,,Pending
+M6300,P1239,Safety Inspection,2025-10-08,2025-10-08,Completed
+M6301,P1239,Design Approval,2026-02-08,2026-02-13,Completed
+M6302,P1239,Structural Work,2026-06-11,2026-08-10,Completed
+M6303,P1239,Land Acquisition,2026-10-13,2026-10-23,Completed
+M6304,P1239,Foundation,2027-02-13,2027-02-18,Completed
+M6305,P1239,Final Handover,2027-06-16,2027-06-16,Completed
+M6306,P1240,Design Approval,2022-11-20,,Pending
+M6307,P1240,Foundation,2023-01-23,2023-01-25,Completed
+M6308,P1240,Final Handover,2023-03-29,2023-05-28,Delayed
+M6309,P1240,Structural Work,2023-06-01,,In Progress
+M6310,P1240,Safety Inspection,2023-08-04,2023-08-14,Delayed
+M6311,P1240,Testing,2023-10-08,2023-10-08,Delayed
+M6312,P1240,Major Construction,2023-12-11,2023-12-28,Delayed
+M6313,P1241,Design Approval,2025-02-06,2025-02-06,Completed
+M6314,P1241,Final Handover,2025-05-04,2025-05-06,Completed
+M6315,P1241,Major Construction,2025-07-30,2025-08-01,Completed
+M6316,P1241,Safety Inspection,2025-10-25,2025-11-04,Delayed
+M6317,P1241,Foundation,2026-01-20,2026-03-21,Delayed
+M6318,P1241,Structural Work,2026-04-17,2026-05-07,Completed
+M6319,P1242,Land Acquisition,,,In Progress
+M6320,P1242,Final Handover,2022-04-11,,Not Started
+M6321,P1242,Structural Work,2022-05-28,2022-07-27,Completed
+M6322,P1242,Foundation,2022-07-15,2022-08-19,Completed
+M6323,P1242,Major Construction,2022-08-31,2022-09-10,Completed
+M6324,P1243,Major Construction,2025-12-24,2025-12-29,Completed
+M6325,P1243,Structural Work,2026-04-15,2026-05-20,Delayed
+M6326,P1243,Design Approval,2026-08-04,2026-09-08,Completed
+M6327,P1243,Final Handover,2026-11-24,2026-12-04,Completed
+M6328,P1243,Foundation,,2027-04-19,Completed
+M6329,p1244,Final Handover,2025-01-18,2025-02-22,Delayed
+M6330,P1244,Land Acquisition,2025-03-16,,Not Started
+M6331,P1244,Safety Inspection,2025-05-13,2025-06-17,Completed
+M6332,P1244,Design Approval,2025-07-09,2025-09-07,Delayed
+M6333,P1245,Testing,2024-01-31,2024-02-02,Completed
+M6334,P1245,Safety Inspection,2024-07-12,2024-07-17,Completed
+M6335,P1245,Structural Work,2024-12-23,2024-12-25,Completed
+M6336,P1245,Major Construction,2025-06-04,2025-08-03,Delayed
+M6337,P1246,Design Approval,2024-06-02,2024-06-12,Completed
+M6338,P1246,Safety Inspection,2024-07-16,2024-07-26,Completed
+M6339,P1246,Major Construction,2024-08-29,2024-10-28,Delayed
+M6340,P1246,Foundation,2024-10-12,2024-10-17,Delayed
+M6341,P1246,Final Handover,2024-11-25,2024-11-27,Completed
+M6342,P1247,Foundation,2023-11-30,2023-12-20,Completed
+M6343,P1247,Testing,2024-02-07,2024-03-13,Completed
+M6344,P1247,Land Acquisition,2024-04-16,2024-05-21,Completed
+M6345,P1247,Design Approval,2024-06-24,2024-07-29,Completed
+M6346,P1248,Land Acquisition,2024-07-11,2024-08-15,Delayed
+M6347,P1248,Structural Work,2024-09-27,2024-10-17,Completed
+M6348,P1248,Testing,2024-12-13,,Pending
+M6349,P1248,Final Handover,2025-03-01,2025-03-11,Delayed
+M6350,P1248,Foundation,2025-05-18,2025-05-28,Completed
+M6351,P1248,Design Approval,,2025-08-23,Completed
+M6352,P1248,Safety Inspection,2025-10-20,,Pending
+M6353,P1249,Design Approval,2023-07-06,2023-07-06,Completed
+M6354,P1249,Final Handover,2023-09-11,2023-11-10,Completed
+M6355,p1249,Safety Inspection,2023-11-17,2023-12-22,Completed
+M6356,P1249,Testing,,2024-01-26,Completed
+M6357,P1249,Foundation,2024-03-31,2024-04-05,Completed
+M6358,P1249,Major Construction,2024-06-06,2024-06-26,Completed
+M6359,P1249,Land Acquisition,2024-08-12,2024-10-11,Delayed
+M6360,P1250,Final Handover,2023-03-22,2023-03-22,Delayed
+M6361,P1250,Major Construction,2023-09-06,2023-11-05,Completed
+M6362,P1250,Land Acquisition,2024-02-20,2024-02-20,Delayed
+M6363,P1250,Testing,2024-08-06,2024-08-26,Delayed
+M6364,P1211,Structural Work,2025-07-26,2025-07-26,Completed
+M6365,P1199,Land Acquisition,2025-11-23,,In Progress
+M6366,P1186,Structural Work,2023-06-01,2023-07-06,Completed
+M6367,P1140,Major Construction,2022-06-24,2022-07-04,Completed
+M6368,P1117,Structural Work,2025-08-16,,Pending
+M6369,P1051,Land Acquisition,2024-11-07,2024-11-09,Completed
+M6370,P1136,Design Approval,2025-06-29,,In Progress
+M6371,P1109,Testing,2026-07-15,2026-07-20,Completed
+M6372,P1076,Major Construction,2025-10-14,2025-10-14,Completed
+M6373,P1106,Structural Work,2022-07-04,,Delayed
+M6374,P1138,Major Construction,2023-03-08,2023-04-12,Completed
+M6375,P1138,Major Construction,2024-07-01,2024-08-05,Completed
+M6376,P1004,Land Acquisition,2026-01-22,2026-03-23,Completed
